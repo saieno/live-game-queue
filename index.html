@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Retr0Sai — Game Queue</title>
+<meta http-equiv="refresh" content="60" />
+<link rel="preconnect" href="https://player.twitch.tv">
+<style>
+
+  :root {
+    --bg-glow: #232d3a;
+    --bg-deep: #232c38;
+    --accent: #181c24;
+    --accent-2: #263045;
+  }
+
+/* Base palette (overridden partly by :root vars above) */
+  :root {
+    --bg: #0b1220;
+    --card: rgba(255,255,255,0.05);
+    --stroke: rgba(255,255,255,0.08);
+    --text: #e8eef9;
+    --muted: #a9b4c6;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin:0; padding:0;
+    background: radial-gradient(1200px 600px at 20% -10%, var(--bg-glow, #1b2a49) 0%, var(--bg-deep, #0b1220) 60%);
+    color: var(--text); font-family: ui-sans-serif, -apple-system, Segoe UI, Roboto, Arial;
+  }
+  .wrap { max-width: 980px; margin: 24px auto 96px; padding: 0 16px; }
+  header { display: grid; gap: 16px; }
+  .player {
+    position: relative; width: 100%; border-radius: 16px; overflow: hidden;
+    background: #000; border: 1px solid var(--stroke);
+  }
+  .player::before { content: ""; display:block; padding-top: 56.25%; }
+  .player iframe { position:absolute; inset:0; width:100%; height:100%; border:0; }
+  .now {
+    display:flex; align-items:center; justify-content:space-between; gap:12px;
+    background: var(--card); border:1px solid var(--stroke);
+    border-radius: 12px; padding: 14px 16px;
+  }
+  .now .title { font-size: 1.125rem; font-weight: 650; letter-spacing: .2px; }
+  .now .title span { color: var(--accent); }
+  .now .meta { color: var(--muted); font-size: 0.95rem; }
+  .pill {
+    display:inline-flex; align-items:center; gap:8px;
+    padding: 6px 10px; border-radius: 999px;
+    border:1px solid var(--accent);
+    background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.03));
+    color: var(--accent-2); font-weight: 600; font-size: .9rem;
+  }
+  .grid {
+    margin-top: 18px;
+    background: var(--card); border:1px solid var(--stroke); border-radius: 16px; overflow: hidden;
+  }
+  table { width:100%; border-collapse: collapse; }
+  thead th {
+    text-align:left; font-size: .95rem; letter-spacing:.3px;
+    color: #fff; background: color-mix(in oklab, var(--accent) 30%, transparent);
+    border-bottom: 1px solid var(--stroke); padding: 12px 14px;
+  }
+  tbody td { padding: 12px 14px; border-bottom:1px solid var(--stroke); }
+  tbody tr:nth-child(2n) td { background: rgba(255,255,255,0.03); }
+  .col-num { width:64px; color: var(--muted); font-weight:600; }
+  .col-user { width: 28%; font-weight:600; }
+  .col-game { font-weight:550; }
+  .footer {
+    display:flex; justify-content: space-between; align-items:center; 
+    gap: 14px; color: var(--muted); margin-top: 10px; font-size: .95rem;
+  }
+  a.btn {
+    display:inline-flex; align-items:center; gap:10px; text-decoration:none;
+    background: linear-gradient(180deg, color-mix(in oklab, var(--accent) 35%, transparent), color-mix(in oklab, var(--accent) 15%, transparent));
+    border:1px solid var(--accent); color:#001219; font-weight:800;
+    padding:10px 14px; border-radius: 10px;
+  }
+  /* Theme marker for debugging (hidden) */
+  .theme-key { display:none; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="player">
+        <iframe
+          src="https://player.twitch.tv/?channel=retr0sai&parent=saieno.github.io&muted=true&autoplay=true"
+          allowfullscreen="true" scrolling="no">
+        </iframe>
+      </div>
+      <div class="now">
+        <div class="title">Now Playing: <span>—</span> <span class="pill">Nintendo 3DS</span></div>
+        <div class="meta">Last updated: Aug 13, 2025 09:53 PM</div>
+      </div>
+    </header>
+
+    <section class="grid" aria-label="Game Queue">
+      <table>
+        <thead>
+          <tr><th class="col-num">#</th><th class="col-user">User</th><th class="col-game">Game Title</th></tr>
+        </thead>
+        <tbody>
+          
+          <tr>
+            <td class="col-num">1</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Honkai: Star Rail</td>
+          </tr>
+          <tr>
+            <td class="col-num">2</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Ninja Gaiden</td>
+          </tr>
+          <tr>
+            <td class="col-num">3</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Mario Kart 64</td>
+          </tr>
+          <tr>
+            <td class="col-num">4</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">ToeJam &amp; Earl III: Mission to Earth</td>
+          </tr>
+          <tr>
+            <td class="col-num">5</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">Dead or Alive 3</td>
+          </tr>
+          <tr>
+            <td class="col-num">6</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">A Little to the Left</td>
+          </tr>
+          <tr>
+            <td class="col-num">7</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">SonicN</td>
+          </tr>
+          <tr>
+            <td class="col-num">8</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">DOOM</td>
+          </tr>
+          <tr>
+            <td class="col-num">9</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">Half-Life</td>
+          </tr>
+          <tr>
+            <td class="col-num">10</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Halo</td>
+          </tr>
+          <tr>
+            <td class="col-num">11</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">Final Fantasy VII</td>
+          </tr>
+          <tr>
+            <td class="col-num">12</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Life is Strange</td>
+          </tr>
+          <tr>
+            <td class="col-num">13</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Detroit: Become Human</td>
+          </tr>
+          <tr>
+            <td class="col-num">14</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">Resident Evil 4</td>
+          </tr>
+          <tr>
+            <td class="col-num">15</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Alan Wake</td>
+          </tr>
+          <tr>
+            <td class="col-num">16</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Bayonetta</td>
+          </tr>
+          <tr>
+            <td class="col-num">17</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">Aladdin</td>
+          </tr>
+          <tr>
+            <td class="col-num">18</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Pac-Man</td>
+          </tr>
+          <tr>
+            <td class="col-num">19</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">Metal Storm</td>
+          </tr>
+          <tr>
+            <td class="col-num">20</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Barbie</td>
+          </tr>
+          <tr>
+            <td class="col-num">21</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Wars &amp; Warriors: Joan of Arc</td>
+          </tr>
+          <tr>
+            <td class="col-num">22</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Counter-Strike</td>
+          </tr>
+          <tr>
+            <td class="col-num">23</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">Sudeki</td>
+          </tr>
+          <tr>
+            <td class="col-num">24</td>
+            <td class="col-user">Sakura_AO</td>
+            <td class="col-game">Portal 2</td>
+          </tr>
+          <tr>
+            <td class="col-num">25</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">Final Fantasy III</td>
+          </tr>
+          <tr>
+            <td class="col-num">26</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">Castlevania</td>
+          </tr>
+          <tr>
+            <td class="col-num">27</td>
+            <td class="col-user">Retr0Sai</td>
+            <td class="col-game">Castlevania: Symphony of the Night</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <div class="footer">
+      <div>Catch the stream at <a href="https://twitch.tv/retr0sai" target="_blank" rel="noreferrer">twitch.tv/retr0sai</a></div>
+      <a class="btn" href="https://twitch.tv/retr0sai" target="_blank" rel="noreferrer">Open Stream</a>
+    </div>
+
+    <div class="theme-key">Default</div>
+  </div>
+</body>
+</html>
