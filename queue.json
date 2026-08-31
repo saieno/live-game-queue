@@ -1,10 +1,18 @@
 {
  "channel": "retrosaieno",
- "count": 0,
- "generated_at": "Aug 31, 2026 12:40 PM",
- "generated_ts": 1788198000,
- "items": [],
- "locked": true,
+ "count": 1,
+ "generated_at": "Aug 31, 2026 12:50 PM",
+ "generated_ts": 1788198600,
+ "items": [
+  {
+   "login": "fruhara",
+   "pos": 1,
+   "requested_at": "2026-08-31T17:48:11.810223+00:00",
+   "title": "The Smurfs",
+   "username": "fruhara"
+  }
+ ],
+ "locked": false,
  "now_playing": "Grand Theft Auto III",
  "platform": "JustChatting",
  "schema": 1,
