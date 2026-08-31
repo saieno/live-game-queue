@@ -1,42 +1,42 @@
 {
  "channel": "retrosaieno",
  "count": 4,
- "generated_at": "Aug 31, 2026 06:40 PM",
- "generated_ts": 1788219600,
+ "generated_at": "Aug 31, 2026 06:45 PM",
+ "generated_ts": 1788219900,
  "items": [
   {
-   "login": "fruhara",
-   "pos": 1,
-   "requested_at": "2026-08-31T23:33:45.548224+00:00",
-   "title": "Crash Bandicoot",
-   "username": "fruhara"
-  },
-  {
    "login": "panda_pause",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-08-31T22:51:32.153722+00:00",
    "title": "Fatal Frame",
    "username": "Panda_Pause"
   },
   {
    "login": "purplevoided",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-08-31T22:54:06.241224+00:00",
    "title": "Bomberman Generation",
    "username": "PurpleVoided"
   },
   {
    "login": "notsumei",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-08-31T22:59:07.403722+00:00",
    "title": "Power Stone",
    "username": "NOTsumei"
+  },
+  {
+   "login": "fruhara",
+   "pos": 4,
+   "requested_at": "2026-08-31T23:40:47.824220+00:00",
+   "title": "Ratchet & Clank",
+   "username": "fruhara"
   }
  ],
  "locked": false,
  "now_playing": "Red Faction",
- "platform": "Sony PlayStation 2",
+ "platform": "JustChatting",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sony_PlayStation_2"
+ "theme": "Default"
 }

@@ -1,10 +1,5 @@
 [
   {
-    "username": "fruhara",
-    "title": "Crash Bandicoot",
-    "timestamp": "2026-08-31T23:33:45.548224+00:00"
-  },
-  {
     "username": "Panda_Pause",
     "title": "Fatal Frame",
     "timestamp": "2026-08-31T22:51:32.153722+00:00"
@@ -18,5 +13,10 @@
     "username": "NOTsumei",
     "title": "Power Stone",
     "timestamp": "2026-08-31T22:59:07.403722+00:00"
+  },
+  {
+    "username": "fruhara",
+    "title": "Ratchet & Clank",
+    "timestamp": "2026-08-31T23:40:47.824220+00:00"
   }
 ]
