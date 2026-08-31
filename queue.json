@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 5,
- "generated_at": "Aug 31, 2026 05:00 PM",
- "generated_ts": 1788213600,
+ "generated_at": "Aug 31, 2026 05:05 PM",
+ "generated_ts": 1788213900,
  "items": [
   {
    "login": "notsumei",
@@ -42,7 +42,7 @@
  ],
  "locked": false,
  "now_playing": "Mischief Makers",
- "platform": "Raided",
+ "platform": "JustChatting",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
