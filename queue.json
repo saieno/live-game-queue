@@ -1,49 +1,42 @@
 {
  "channel": "retrosaieno",
- "count": 5,
- "generated_at": "Aug 31, 2026 05:10 PM",
- "generated_ts": 1788214200,
+ "count": 4,
+ "generated_at": "Aug 31, 2026 05:20 PM",
+ "generated_ts": 1788214800,
  "items": [
   {
-   "login": "notsumei",
-   "pos": 1,
-   "requested_at": "2026-08-31T18:37:20.395223+00:00",
-   "title": "The First Funky Fighter",
-   "username": "NOTsumei"
-  },
-  {
    "login": "purplevoided",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-08-31T18:46:06.895723+00:00",
    "title": "Pong: The Next Level",
    "username": "PurpleVoided"
   },
   {
    "login": "shadikennn",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-08-31T18:55:57.820221+00:00",
    "title": "Spice World",
    "username": "Shadikennn"
   },
   {
    "login": "zettathecat",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-08-31T19:06:45.616723+00:00",
    "title": "DreamWorks Shrek the Third",
    "username": "ZettaTheCat"
   },
   {
    "login": "squaresoftgoldenjrpgera",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-08-31T19:44:56.618725+00:00",
    "title": "Auto Modellista",
    "username": "squaresoftgoldenjrpgera"
   }
  ],
  "locked": false,
- "now_playing": "Mischief Makers",
- "platform": "Nintendo 64",
+ "now_playing": "The First Funky Fighter",
+ "platform": "Arcade",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Nintendo_64"
+ "theme": "Arcade"
 }
