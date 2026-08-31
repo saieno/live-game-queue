@@ -1,15 +1,15 @@
 {
  "channel": "retrosaieno",
  "count": 4,
- "generated_at": "Aug 31, 2026 06:25 PM",
- "generated_ts": 1788218700,
+ "generated_at": "Aug 31, 2026 06:35 PM",
+ "generated_ts": 1788219300,
  "items": [
   {
-   "login": "shadikennn",
+   "login": "fruhara",
    "pos": 1,
-   "requested_at": "2026-08-31T22:51:11.131722+00:00",
-   "title": "Red Faction",
-   "username": "Shadikennn"
+   "requested_at": "2026-08-31T23:33:45.548224+00:00",
+   "title": "Crash Bandicoot",
+   "username": "fruhara"
   },
   {
    "login": "panda_pause",
@@ -34,9 +34,9 @@
   }
  ],
  "locked": false,
- "now_playing": "Auto Modellista",
- "platform": "Microsoft Xbox",
+ "now_playing": "Red Faction",
+ "platform": "Raided",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Microsoft_Xbox"
+ "theme": "Default"
 }
