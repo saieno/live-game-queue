@@ -1,70 +1,84 @@
 {
  "channel": "retrosaieno",
- "count": 8,
- "generated_at": "Aug 31, 2026 02:40 PM",
- "generated_ts": 1788205200,
+ "count": 10,
+ "generated_at": "Aug 31, 2026 02:45 PM",
+ "generated_ts": 1788205500,
  "items": [
   {
-   "login": "berserk_dark_cacao",
+   "login": "mistressmercy",
    "pos": 1,
+   "requested_at": "2026-08-31T18:33:18.754724+00:00",
+   "title": "Remnant II",
+   "username": "MistressMercy"
+  },
+  {
+   "login": "mistressmercy",
+   "pos": 2,
+   "requested_at": "2026-08-31T19:41:47.237220+00:00",
+   "title": "Burnout 2: Point of Impact",
+   "username": "MistressMercy"
+  },
+  {
+   "login": "berserk_dark_cacao",
+   "pos": 3,
    "requested_at": "2026-08-31T17:58:10.355764+00:00",
    "title": "Conker's Bad Fur Day",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "shadikennn",
-   "pos": 2,
+   "pos": 4,
    "requested_at": "2026-08-31T18:05:32.830226+00:00",
    "title": "Tiny Toon Adventures: Buster's Hidden Treasure",
    "username": "Shadikennn"
   },
   {
    "login": "thedogmatix",
-   "pos": 3,
+   "pos": 5,
    "requested_at": "2026-08-31T18:30:23.164723+00:00",
    "title": "Mischief Makers",
    "username": "TheDogmatix"
   },
   {
-   "login": "mistressmercy",
-   "pos": 4,
-   "requested_at": "2026-08-31T18:33:18.754724+00:00",
-   "title": "Remnant II",
-   "username": "MistressMercy"
-  },
-  {
    "login": "notsumei",
-   "pos": 5,
+   "pos": 6,
    "requested_at": "2026-08-31T18:37:20.395223+00:00",
    "title": "The First Funky Fighter",
    "username": "NOTsumei"
   },
   {
    "login": "purplevoided",
-   "pos": 6,
+   "pos": 7,
    "requested_at": "2026-08-31T18:46:06.895723+00:00",
    "title": "Pong: The Next Level",
    "username": "PurpleVoided"
   },
   {
    "login": "shadikennn",
-   "pos": 7,
+   "pos": 8,
    "requested_at": "2026-08-31T18:55:57.820221+00:00",
    "title": "Spice World",
    "username": "Shadikennn"
   },
   {
    "login": "zettathecat",
-   "pos": 8,
+   "pos": 9,
    "requested_at": "2026-08-31T19:06:45.616723+00:00",
    "title": "DreamWorks Shrek the Third",
    "username": "ZettaTheCat"
+  },
+  {
+   "login": "squaresoftgoldenjrpgera",
+   "pos": 10,
+   "requested_at": "2026-08-31T19:44:56.618725+00:00",
+   "title": "Auto Modellista",
+   "username": "squaresoftgoldenjrpgera"
   }
  ],
  "locked": false,
- "now_playing": "San Francisco Rush 2049",
- "platform": "Sega Dreamcast",
+ "now_playing": "Supersonic Acrobatic Rocket Powered Battle-Cars",
+ "platform": "Sony PlayStation 3",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sega_Dreamcast"
+ "theme": "Sony_PlayStation_3"
 }
