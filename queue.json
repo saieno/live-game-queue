@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 7,
- "generated_at": "Aug 31, 2026 01:35 PM",
- "generated_ts": 1788201300,
+ "count": 8,
+ "generated_at": "Aug 31, 2026 01:40 PM",
+ "generated_ts": 1788201600,
  "items": [
   {
    "login": "iamjenthefriend",
@@ -52,6 +52,13 @@
    "requested_at": "2026-08-31T18:33:18.754724+00:00",
    "title": "Remnant II",
    "username": "MistressMercy"
+  },
+  {
+   "login": "notsumei",
+   "pos": 8,
+   "requested_at": "2026-08-31T18:37:20.395223+00:00",
+   "title": "The First Funky Fighter",
+   "username": "NOTsumei"
   }
  ],
  "locked": false,
