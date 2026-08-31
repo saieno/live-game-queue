@@ -1,49 +1,42 @@
 {
  "channel": "retrosaieno",
- "count": 5,
- "generated_at": "Aug 31, 2026 06:20 PM",
- "generated_ts": 1788218400,
+ "count": 4,
+ "generated_at": "Aug 31, 2026 06:25 PM",
+ "generated_ts": 1788218700,
  "items": [
   {
-   "login": "squaresoftgoldenjrpgera",
-   "pos": 1,
-   "requested_at": "2026-08-31T19:44:56.618725+00:00",
-   "title": "Auto Modellista",
-   "username": "squaresoftgoldenjrpgera"
-  },
-  {
    "login": "shadikennn",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-08-31T22:51:11.131722+00:00",
    "title": "Red Faction",
    "username": "Shadikennn"
   },
   {
    "login": "panda_pause",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-08-31T22:51:32.153722+00:00",
    "title": "Fatal Frame",
    "username": "Panda_Pause"
   },
   {
    "login": "purplevoided",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-08-31T22:54:06.241224+00:00",
    "title": "Bomberman Generation",
    "username": "PurpleVoided"
   },
   {
    "login": "notsumei",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-08-31T22:59:07.403722+00:00",
    "title": "Power Stone",
    "username": "NOTsumei"
   }
  ],
  "locked": false,
- "now_playing": "Shrek The Third",
- "platform": "Wheel of Nostalgia",
+ "now_playing": "Auto Modellista",
+ "platform": "Microsoft Xbox",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Microsoft_Xbox"
 }
