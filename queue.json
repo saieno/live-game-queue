@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 6,
- "generated_at": "Aug 31, 2026 01:00 PM",
- "generated_ts": 1788199200,
+ "generated_at": "Aug 31, 2026 01:05 PM",
+ "generated_ts": 1788199500,
  "items": [
   {
    "login": "fruhara",
@@ -49,7 +49,7 @@
  ],
  "locked": false,
  "now_playing": "Grand Theft Auto III",
- "platform": "JustChatting",
+ "platform": "Wheel of Nostalgia",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
