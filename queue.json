@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 7,
- "generated_at": "Aug 31, 2026 04:00 PM",
- "generated_ts": 1788210000,
+ "count": 8,
+ "generated_at": "Aug 31, 2026 04:10 PM",
+ "generated_ts": 1788210600,
  "items": [
   {
    "login": "shadikennn",
@@ -52,6 +52,13 @@
    "requested_at": "2026-08-31T19:44:56.618725+00:00",
    "title": "Auto Modellista",
    "username": "squaresoftgoldenjrpgera"
+  },
+  {
+   "login": "belovedmidna",
+   "pos": 8,
+   "requested_at": "2026-08-31T21:09:21.136722+00:00",
+   "title": "Conker's Bad Fur Day",
+   "username": "BelovedMidna"
   }
  ],
  "locked": false,
