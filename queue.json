@@ -1,84 +1,77 @@
 {
  "channel": "retrosaieno",
- "count": 10,
- "generated_at": "Aug 31, 2026 02:00 PM",
- "generated_ts": 1788202800,
+ "count": 9,
+ "generated_at": "Aug 31, 2026 02:05 PM",
+ "generated_ts": 1788203100,
  "items": [
   {
-   "login": "iamjenthefriend",
-   "pos": 1,
-   "requested_at": "2026-08-31T17:52:06.227727+00:00",
-   "title": "Overcooked! All You Can Eat",
-   "username": "iamjenthefriend"
-  },
-  {
    "login": "big_tx",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-08-31T17:52:24.259222+00:00",
    "title": "Def Jam: Fight for NY",
    "username": "Big_Tx"
   },
   {
    "login": "dango_rangus",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-08-31T17:57:14.765723+00:00",
    "title": "San Francisco Rush 2049",
    "username": "Dango_Rangus"
   },
   {
    "login": "berserk_dark_cacao",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-08-31T17:58:10.355764+00:00",
    "title": "Conker's Bad Fur Day",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "shadikennn",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-08-31T18:05:32.830226+00:00",
    "title": "Tiny Toon Adventures: Buster's Hidden Treasure",
    "username": "Shadikennn"
   },
   {
    "login": "thedogmatix",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-08-31T18:30:23.164723+00:00",
    "title": "Mischief Makers",
    "username": "TheDogmatix"
   },
   {
    "login": "mistressmercy",
-   "pos": 7,
+   "pos": 6,
    "requested_at": "2026-08-31T18:33:18.754724+00:00",
    "title": "Remnant II",
    "username": "MistressMercy"
   },
   {
    "login": "notsumei",
-   "pos": 8,
+   "pos": 7,
    "requested_at": "2026-08-31T18:37:20.395223+00:00",
    "title": "The First Funky Fighter",
    "username": "NOTsumei"
   },
   {
    "login": "purplevoided",
-   "pos": 9,
+   "pos": 8,
    "requested_at": "2026-08-31T18:46:06.895723+00:00",
    "title": "Pong: The Next Level",
    "username": "PurpleVoided"
   },
   {
    "login": "shadikennn",
-   "pos": 10,
+   "pos": 9,
    "requested_at": "2026-08-31T18:55:57.820221+00:00",
    "title": "Spice World",
    "username": "Shadikennn"
   }
  ],
  "locked": false,
- "now_playing": "Forza Motorsport 7",
- "platform": "Microsoft Xbox One",
+ "now_playing": "Overcooked! All You Can Eat",
+ "platform": "Nintendo Switch",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Microsoft_Xbox_One"
+ "theme": "Nintendo_Switch"
 }
