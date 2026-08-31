@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 4,
- "generated_at": "Aug 31, 2026 06:45 PM",
- "generated_ts": 1788219900,
+ "generated_at": "Aug 31, 2026 06:50 PM",
+ "generated_ts": 1788220200,
  "items": [
   {
    "login": "panda_pause",
@@ -35,8 +35,8 @@
  ],
  "locked": false,
  "now_playing": "Red Faction",
- "platform": "JustChatting",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_2"
 }
