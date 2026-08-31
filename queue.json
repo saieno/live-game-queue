@@ -1,70 +1,63 @@
 {
  "channel": "retrosaieno",
- "count": 8,
- "generated_at": "Aug 31, 2026 03:40 PM",
- "generated_ts": 1788208800,
+ "count": 7,
+ "generated_at": "Aug 31, 2026 03:50 PM",
+ "generated_ts": 1788209400,
  "items": [
   {
-   "login": "berserk_dark_cacao",
-   "pos": 1,
-   "requested_at": "2026-08-31T17:58:10.355764+00:00",
-   "title": "Conker's Bad Fur Day",
-   "username": "berserk_dark_cacao"
-  },
-  {
    "login": "shadikennn",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-08-31T18:05:32.830226+00:00",
    "title": "Tiny Toon Adventures: Buster's Hidden Treasure",
    "username": "Shadikennn"
   },
   {
    "login": "thedogmatix",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-08-31T18:30:23.164723+00:00",
    "title": "Mischief Makers",
    "username": "TheDogmatix"
   },
   {
    "login": "notsumei",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-08-31T18:37:20.395223+00:00",
    "title": "The First Funky Fighter",
    "username": "NOTsumei"
   },
   {
    "login": "purplevoided",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-08-31T18:46:06.895723+00:00",
    "title": "Pong: The Next Level",
    "username": "PurpleVoided"
   },
   {
    "login": "shadikennn",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-08-31T18:55:57.820221+00:00",
    "title": "Spice World",
    "username": "Shadikennn"
   },
   {
    "login": "zettathecat",
-   "pos": 7,
+   "pos": 6,
    "requested_at": "2026-08-31T19:06:45.616723+00:00",
    "title": "DreamWorks Shrek the Third",
    "username": "ZettaTheCat"
   },
   {
    "login": "squaresoftgoldenjrpgera",
-   "pos": 8,
+   "pos": 7,
    "requested_at": "2026-08-31T19:44:56.618725+00:00",
    "title": "Auto Modellista",
    "username": "squaresoftgoldenjrpgera"
   }
  ],
  "locked": false,
- "now_playing": "Burnout 2: Point of Impact",
- "platform": "Nintendo GameCube",
+ "now_playing": "Conker's Bad Fur Day",
+ "platform": "Nintendo 64",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Nintendo_GameCube"
+ "theme": "Nintendo_64"
 }
