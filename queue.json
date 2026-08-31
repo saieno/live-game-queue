@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 8,
- "generated_at": "Aug 31, 2026 01:45 PM",
- "generated_ts": 1788201900,
+ "count": 9,
+ "generated_at": "Aug 31, 2026 01:50 PM",
+ "generated_ts": 1788202200,
  "items": [
   {
    "login": "iamjenthefriend",
@@ -59,12 +59,19 @@
    "requested_at": "2026-08-31T18:37:20.395223+00:00",
    "title": "The First Funky Fighter",
    "username": "NOTsumei"
+  },
+  {
+   "login": "purplevoided",
+   "pos": 9,
+   "requested_at": "2026-08-31T18:46:06.895723+00:00",
+   "title": "Pong: The Next Level",
+   "username": "PurpleVoided"
   }
  ],
  "locked": false,
  "now_playing": "Forza Motorsport 7",
- "platform": "JustChatting",
+ "platform": "Microsoft Xbox One",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Microsoft_Xbox_One"
 }
