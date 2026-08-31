@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 8,
- "generated_at": "Aug 31, 2026 03:30 PM",
- "generated_ts": 1788208200,
+ "generated_at": "Aug 31, 2026 03:40 PM",
+ "generated_ts": 1788208800,
  "items": [
   {
    "login": "berserk_dark_cacao",
@@ -63,8 +63,8 @@
  ],
  "locked": false,
  "now_playing": "Burnout 2: Point of Impact",
- "platform": "Starting Soon",
+ "platform": "Nintendo GameCube",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Nintendo_GameCube"
 }
