@@ -1,0 +1,16 @@
+# THE PUBLISHER'S OWN STATE. Both of these were COMMITTED into this public
+# repo by the old publisher -- .publish.lock with a live PID in it. They now
+# live in D:\VTuber Assets\ArcadeTokens\; these names stay ignored so a stale
+# copy left in the working tree can never be committed again.
+.publish.lock
+.publish_state.json
+.publish_queue.*
+
+# Windows leaves these behind whenever the folder is browsed.
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# Half-written files from a killed publish.
+*.tmp
