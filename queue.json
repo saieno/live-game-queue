@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 7,
- "generated_at": "Aug 31, 2026 04:15 PM",
- "generated_ts": 1788210900,
+ "generated_at": "Aug 31, 2026 04:25 PM",
+ "generated_ts": 1788211500,
  "items": [
   {
    "login": "shadikennn",
@@ -56,8 +56,8 @@
  ],
  "locked": false,
  "now_playing": "Conker's Bad Fur Day",
- "platform": "Nintendo 64",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Nintendo_64"
+ "theme": "Sony_PlayStation_2"
 }
