@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 4,
- "generated_at": "Aug 31, 2026 06:35 PM",
- "generated_ts": 1788219300,
+ "generated_at": "Aug 31, 2026 06:40 PM",
+ "generated_ts": 1788219600,
  "items": [
   {
    "login": "fruhara",
@@ -35,8 +35,8 @@
  ],
  "locked": false,
  "now_playing": "Red Faction",
- "platform": "Raided",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_2"
 }
