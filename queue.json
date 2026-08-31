@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 4,
- "generated_at": "Aug 31, 2026 12:55 PM",
- "generated_ts": 1788198900,
+ "count": 6,
+ "generated_at": "Aug 31, 2026 01:00 PM",
+ "generated_ts": 1788199200,
  "items": [
   {
    "login": "fruhara",
@@ -31,6 +31,20 @@
    "requested_at": "2026-08-31T17:52:24.259222+00:00",
    "title": "Def Jam: Fight for NY",
    "username": "Big_Tx"
+  },
+  {
+   "login": "dango_rangus",
+   "pos": 5,
+   "requested_at": "2026-08-31T17:57:14.765723+00:00",
+   "title": "San Francisco Rush 2049",
+   "username": "Dango_Rangus"
+  },
+  {
+   "login": "berserk_dark_cacao",
+   "pos": 6,
+   "requested_at": "2026-08-31T17:58:10.355764+00:00",
+   "title": "Conker's Bad Fur Day",
+   "username": "berserk_dark_cacao"
   }
  ],
  "locked": false,
