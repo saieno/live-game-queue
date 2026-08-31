@@ -1,33 +1,26 @@
 {
  "channel": "retrosaieno",
- "count": 3,
- "generated_at": "Aug 31, 2026 05:25 PM",
- "generated_ts": 1788215100,
+ "count": 2,
+ "generated_at": "Aug 31, 2026 05:40 PM",
+ "generated_ts": 1788216000,
  "items": [
   {
-   "login": "shadikennn",
-   "pos": 1,
-   "requested_at": "2026-08-31T18:55:57.820221+00:00",
-   "title": "Spice World",
-   "username": "Shadikennn"
-  },
-  {
    "login": "zettathecat",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-08-31T19:06:45.616723+00:00",
    "title": "DreamWorks Shrek the Third",
    "username": "ZettaTheCat"
   },
   {
    "login": "squaresoftgoldenjrpgera",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-08-31T19:44:56.618725+00:00",
    "title": "Auto Modellista",
    "username": "squaresoftgoldenjrpgera"
   }
  ],
  "locked": false,
- "now_playing": "Pong: The Next Level",
+ "now_playing": "Spice World",
  "platform": "Sony PlayStation 1",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
