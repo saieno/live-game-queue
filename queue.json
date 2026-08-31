@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 8,
- "generated_at": "Aug 31, 2026 01:40 PM",
- "generated_ts": 1788201600,
+ "generated_at": "Aug 31, 2026 01:45 PM",
+ "generated_ts": 1788201900,
  "items": [
   {
    "login": "iamjenthefriend",
@@ -63,8 +63,8 @@
  ],
  "locked": false,
  "now_playing": "Forza Motorsport 7",
- "platform": "Microsoft Xbox One",
+ "platform": "JustChatting",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Microsoft_Xbox_One"
+ "theme": "Default"
 }
