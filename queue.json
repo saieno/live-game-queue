@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 7,
- "generated_at": "Aug 31, 2026 01:25 PM",
- "generated_ts": 1788200700,
+ "generated_at": "Aug 31, 2026 01:30 PM",
+ "generated_ts": 1788201000,
  "items": [
   {
    "login": "gypsy_darling",
@@ -56,8 +56,8 @@
  ],
  "locked": false,
  "now_playing": "I am Bread",
- "platform": "JustChatting",
+ "platform": "Sony PlayStation 4",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_4"
 }
