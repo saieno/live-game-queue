@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 7,
- "generated_at": "Aug 31, 2026 08:15 PM",
- "generated_ts": 1788225300,
+ "generated_at": "Aug 31, 2026 08:40 PM",
+ "generated_ts": 1788226800,
  "items": [
   {
    "login": "panda_pause",
@@ -56,7 +56,7 @@
  ],
  "locked": true,
  "now_playing": "Ratchet & Clank",
- "platform": "Starting Soon",
+ "platform": "JustChatting",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
