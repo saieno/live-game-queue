@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 6,
- "generated_at": "Aug 31, 2026 08:55 PM",
- "generated_ts": 1788227700,
+ "generated_at": "Aug 31, 2026 09:00 PM",
+ "generated_ts": 1788228000,
  "items": [
   {
    "login": "panda_pause",
@@ -49,8 +49,8 @@
  ],
  "locked": true,
  "now_playing": "Mario Kart: Double Dash!!",
- "platform": "JustChatting",
+ "platform": "Nintendo GameCube",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Nintendo_GameCube"
 }
