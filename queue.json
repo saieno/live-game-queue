@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 5,
- "generated_at": "Aug 31, 2026 07:25 PM",
- "generated_ts": 1788222300,
+ "count": 6,
+ "generated_at": "Aug 31, 2026 07:30 PM",
+ "generated_ts": 1788222600,
  "items": [
   {
    "login": "panda_pause",
@@ -38,12 +38,19 @@
    "requested_at": "2026-09-01T00:13:05.923231+00:00",
    "title": "Mortal Shell",
    "username": "StinkyMinkie"
+  },
+  {
+   "login": "donatedstoner",
+   "pos": 6,
+   "requested_at": "2026-09-01T00:25:51.540721+00:00",
+   "title": "Road Trip",
+   "username": "DonatedStoner"
   }
  ],
  "locked": false,
- "now_playing": "Red Faction",
- "platform": "Sony PlayStation 2",
+ "now_playing": "GhostBusters : The Video Game",
+ "platform": "Sony PlayStation Portable",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sony_PlayStation_2"
+ "theme": "Sony_PlayStation_Portable"
 }
