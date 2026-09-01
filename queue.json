@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 3,
- "generated_at": "Aug 31, 2026 10:55 PM",
- "generated_ts": 1788234900,
+ "count": 2,
+ "generated_at": "Aug 31, 2026 11:00 PM",
+ "generated_ts": 1788235200,
  "items": [
   {
    "login": "stinkyminkie",
@@ -12,24 +12,17 @@
    "username": "StinkyMinkie"
   },
   {
-   "login": "donatedstoner",
-   "pos": 2,
-   "requested_at": "2026-09-01T00:25:51.540721+00:00",
-   "title": "Road Trip",
-   "username": "DonatedStoner"
-  },
-  {
    "login": "star_lord90tv",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-01T00:32:11.188222+00:00",
    "title": "Road Rash 3D",
    "username": "star_lord90tv"
   }
  ],
  "locked": true,
- "now_playing": "Power Stone",
- "platform": "Wheel of Nostalgia",
+ "now_playing": "Road Trip",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_2"
 }
