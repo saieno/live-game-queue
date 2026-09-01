@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 4,
- "generated_at": "Aug 31, 2026 10:20 PM",
- "generated_ts": 1788232800,
+ "generated_at": "Aug 31, 2026 10:25 PM",
+ "generated_ts": 1788233100,
  "items": [
   {
    "login": "notsumei",
@@ -35,8 +35,8 @@
  ],
  "locked": true,
  "now_playing": "Bomberman Generation",
- "platform": "JustChatting",
+ "platform": "Nintendo GameCube",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Nintendo_GameCube"
 }
