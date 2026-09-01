@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 5,
- "generated_at": "Aug 31, 2026 10:00 PM",
- "generated_ts": 1788231600,
+ "generated_at": "Aug 31, 2026 10:10 PM",
+ "generated_ts": 1788232200,
  "items": [
   {
    "login": "purplevoided",
@@ -42,7 +42,7 @@
  ],
  "locked": true,
  "now_playing": "Fatal Frame",
- "platform": "JustChatting",
+ "platform": "Wheel of Nostalgia",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
