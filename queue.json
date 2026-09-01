@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 7,
- "generated_at": "Aug 31, 2026 08:40 PM",
- "generated_ts": 1788226800,
+ "count": 6,
+ "generated_at": "Aug 31, 2026 08:50 PM",
+ "generated_ts": 1788227400,
  "items": [
   {
    "login": "panda_pause",
@@ -45,19 +45,12 @@
    "requested_at": "2026-09-01T00:32:11.188222+00:00",
    "title": "Road Rash 3D",
    "username": "star_lord90tv"
-  },
-  {
-   "login": "fruhara",
-   "pos": 7,
-   "requested_at": "2026-09-01T01:07:11.116223+00:00",
-   "title": "Ratchet & Clank: Rift Apart",
-   "username": "fruhara"
   }
  ],
  "locked": true,
- "now_playing": "Ratchet & Clank",
- "platform": "JustChatting",
+ "now_playing": "Mario Kart: Double Dash!!",
+ "platform": "Nintendo GameCube",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Nintendo_GameCube"
 }
