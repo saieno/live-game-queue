@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 7,
- "generated_at": "Aug 31, 2026 07:45 PM",
- "generated_ts": 1788223500,
+ "generated_at": "Aug 31, 2026 08:10 PM",
+ "generated_ts": 1788225000,
  "items": [
   {
    "login": "panda_pause",
@@ -49,15 +49,15 @@
   {
    "login": "fruhara",
    "pos": 7,
-   "requested_at": "2026-09-01T00:40:15.353720+00:00",
-   "title": "Melon-chan no Seichou Nikki",
+   "requested_at": "2026-09-01T01:07:11.116223+00:00",
+   "title": "Ratchet & Clank: Rift Apart",
    "username": "fruhara"
   }
  ],
  "locked": false,
  "now_playing": "Ratchet & Clank",
- "platform": "Sony PlayStation 2",
+ "platform": "Starting Soon",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sony_PlayStation_2"
+ "theme": "Default"
 }
