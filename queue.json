@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 6,
- "generated_at": "Aug 31, 2026 09:20 PM",
- "generated_ts": 1788229200,
+ "generated_at": "Aug 31, 2026 09:25 PM",
+ "generated_ts": 1788229500,
  "items": [
   {
    "login": "panda_pause",
@@ -49,8 +49,8 @@
  ],
  "locked": true,
  "now_playing": "Doom",
- "platform": "Raided",
+ "platform": "Sega 32X",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sega_32X"
 }
