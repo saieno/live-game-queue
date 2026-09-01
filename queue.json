@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 7,
- "generated_at": "Aug 31, 2026 07:35 PM",
- "generated_ts": 1788222900,
+ "generated_at": "Aug 31, 2026 07:45 PM",
+ "generated_ts": 1788223500,
  "items": [
   {
    "login": "panda_pause",
@@ -26,38 +26,38 @@
    "username": "NOTsumei"
   },
   {
-   "login": "fruhara",
-   "pos": 4,
-   "requested_at": "2026-08-31T23:40:47.824220+00:00",
-   "title": "Ratchet & Clank",
-   "username": "fruhara"
-  },
-  {
    "login": "stinkyminkie",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-01T00:13:05.923231+00:00",
    "title": "Mortal Shell",
    "username": "StinkyMinkie"
   },
   {
    "login": "donatedstoner",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-01T00:25:51.540721+00:00",
    "title": "Road Trip",
    "username": "DonatedStoner"
   },
   {
    "login": "star_lord90tv",
-   "pos": 7,
+   "pos": 6,
    "requested_at": "2026-09-01T00:32:11.188222+00:00",
    "title": "Road Rash 3D",
    "username": "star_lord90tv"
+  },
+  {
+   "login": "fruhara",
+   "pos": 7,
+   "requested_at": "2026-09-01T00:40:15.353720+00:00",
+   "title": "Melon-chan no Seichou Nikki",
+   "username": "fruhara"
   }
  ],
  "locked": false,
- "now_playing": "GhostBusters : The Video Game",
- "platform": "Sony PlayStation Portable",
+ "now_playing": "Ratchet & Clank",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sony_PlayStation_Portable"
+ "theme": "Sony_PlayStation_2"
 }
