@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 1,
- "generated_at": "Aug 31, 2026 11:30 PM",
- "generated_ts": 1788237000,
+ "generated_at": "Aug 31, 2026 11:35 PM",
+ "generated_ts": 1788237300,
  "items": [
   {
    "login": "stinkyminkie",
@@ -14,8 +14,8 @@
  ],
  "locked": true,
  "now_playing": "Road Rash 3D",
- "platform": "Raided",
+ "platform": "Sony PlayStation 1",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_1"
 }
