@@ -1,56 +1,49 @@
 {
  "channel": "retrosaieno",
- "count": 6,
- "generated_at": "Aug 31, 2026 09:25 PM",
- "generated_ts": 1788229500,
+ "count": 5,
+ "generated_at": "Aug 31, 2026 09:40 PM",
+ "generated_ts": 1788230400,
  "items": [
   {
-   "login": "panda_pause",
-   "pos": 1,
-   "requested_at": "2026-08-31T22:51:32.153722+00:00",
-   "title": "Fatal Frame",
-   "username": "Panda_Pause"
-  },
-  {
    "login": "purplevoided",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-08-31T22:54:06.241224+00:00",
    "title": "Bomberman Generation",
    "username": "PurpleVoided"
   },
   {
    "login": "notsumei",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-08-31T22:59:07.403722+00:00",
    "title": "Power Stone",
    "username": "NOTsumei"
   },
   {
    "login": "stinkyminkie",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-01T00:13:05.923231+00:00",
    "title": "Mortal Shell",
    "username": "StinkyMinkie"
   },
   {
    "login": "donatedstoner",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-01T00:25:51.540721+00:00",
    "title": "Road Trip",
    "username": "DonatedStoner"
   },
   {
    "login": "star_lord90tv",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-01T00:32:11.188222+00:00",
    "title": "Road Rash 3D",
    "username": "star_lord90tv"
   }
  ],
  "locked": true,
- "now_playing": "Doom",
- "platform": "Sega 32X",
+ "now_playing": "Fatal Frame",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sega_32X"
+ "theme": "Sony_PlayStation_2"
 }
