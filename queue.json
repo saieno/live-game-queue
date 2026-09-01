@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 2,
- "generated_at": "Aug 31, 2026 11:05 PM",
- "generated_ts": 1788235500,
+ "generated_at": "Aug 31, 2026 11:10 PM",
+ "generated_ts": 1788235800,
  "items": [
   {
    "login": "stinkyminkie",
@@ -21,8 +21,8 @@
  ],
  "locked": true,
  "now_playing": "Road Trip",
- "platform": "Raided",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_2"
 }
