@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 7,
- "generated_at": "Sep 02, 2026 10:50 AM",
- "generated_ts": 1788364200,
+ "count": 6,
+ "generated_at": "Sep 02, 2026 11:00 AM",
+ "generated_ts": 1788364800,
  "items": [
   {
    "login": "berserk_dark_cacao",
@@ -19,45 +19,38 @@
    "username": "TheDogmatix"
   },
   {
-   "login": "fruhara",
-   "pos": 3,
-   "requested_at": "2026-09-02T15:24:47.239425+00:00",
-   "title": "Ratchet & Clank: Going Commando",
-   "username": "fruhara"
-  },
-  {
    "login": "tjayrocket",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-02T15:29:50.402929+00:00",
    "title": "Wall Street Kid",
    "username": "TJayRocket"
   },
   {
    "login": "courtney_a_ok",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-02T15:31:26.877429+00:00",
    "title": "Paper Mario: The Thousand-Year Door",
    "username": "courtney_a_ok"
   },
   {
    "login": "shadikennn",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-02T15:39:28.040433+00:00",
    "title": "Beetle Adventure Racing!",
    "username": "Shadikennn"
   },
   {
    "login": "notsumei",
-   "pos": 7,
+   "pos": 6,
    "requested_at": "2026-09-02T15:41:04.042928+00:00",
    "title": "Chase the Chuck Wagon",
    "username": "NOTsumei"
   }
  ],
  "locked": false,
- "now_playing": "Super Monkey Ball",
- "platform": "Nintendo GameCube",
+ "now_playing": "Ratchet & Clank: Going Commando",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Nintendo_GameCube"
+ "theme": "Sony_PlayStation_2"
 }
