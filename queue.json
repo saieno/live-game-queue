@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 7,
- "generated_at": "Sep 02, 2026 11:25 AM",
- "generated_ts": 1788366300,
+ "count": 8,
+ "generated_at": "Sep 02, 2026 11:30 AM",
+ "generated_ts": 1788366600,
  "items": [
   {
    "login": "thedogmatix",
@@ -52,6 +52,13 @@
    "requested_at": "2026-09-02T16:20:59.861431+00:00",
    "title": "Sonic Adventure 2",
    "username": "Thor_Q"
+  },
+  {
+   "login": "fruhara",
+   "pos": 8,
+   "requested_at": "2026-09-02T16:29:56.186425+00:00",
+   "title": "Need for Speed: Carbon",
+   "username": "fruhara"
   }
  ],
  "locked": false,
