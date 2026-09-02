@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 7,
- "generated_at": "Sep 02, 2026 10:45 AM",
- "generated_ts": 1788363900,
+ "generated_at": "Sep 02, 2026 10:50 AM",
+ "generated_ts": 1788364200,
  "items": [
   {
    "login": "berserk_dark_cacao",
@@ -55,9 +55,9 @@
   }
  ],
  "locked": false,
- "now_playing": "Super Monkey Ball: Banana Blitz",
- "platform": "Nintendo Wii",
+ "now_playing": "Super Monkey Ball",
+ "platform": "Nintendo GameCube",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Nintendo_Wii"
+ "theme": "Nintendo_GameCube"
 }
