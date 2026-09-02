@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 2,
- "generated_at": "Sep 02, 2026 10:20 AM",
- "generated_ts": 1788362400,
+ "count": 4,
+ "generated_at": "Sep 02, 2026 10:25 AM",
+ "generated_ts": 1788362700,
  "items": [
   {
    "login": "mistressmercy",
@@ -17,6 +17,20 @@
    "requested_at": "2026-09-02T15:18:58.722424+00:00",
    "title": "Soul Eater: Monotone Princess",
    "username": "berserk_dark_cacao"
+  },
+  {
+   "login": "thedogmatix",
+   "pos": 3,
+   "requested_at": "2026-09-02T15:21:43.993930+00:00",
+   "title": "Under the Skin",
+   "username": "TheDogmatix"
+  },
+  {
+   "login": "fruhara",
+   "pos": 4,
+   "requested_at": "2026-09-02T15:24:47.239425+00:00",
+   "title": "Ratchet & Clank: Going Commando",
+   "username": "fruhara"
   }
  ],
  "locked": false,
