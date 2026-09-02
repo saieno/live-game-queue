@@ -1,63 +1,63 @@
 {
  "channel": "retrosaieno",
  "count": 7,
- "generated_at": "Sep 02, 2026 10:40 AM",
- "generated_ts": 1788363600,
+ "generated_at": "Sep 02, 2026 10:45 AM",
+ "generated_ts": 1788363900,
  "items": [
   {
-   "login": "mistressmercy",
-   "pos": 1,
-   "requested_at": "2026-09-02T15:18:09.830926+00:00",
-   "title": "Super Monkey Ball: Banana Blitz",
-   "username": "MistressMercy"
-  },
-  {
    "login": "berserk_dark_cacao",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-02T15:18:58.722424+00:00",
    "title": "Soul Eater: Monotone Princess",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "thedogmatix",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-02T15:21:43.993930+00:00",
    "title": "Under the Skin",
    "username": "TheDogmatix"
   },
   {
    "login": "fruhara",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-02T15:24:47.239425+00:00",
    "title": "Ratchet & Clank: Going Commando",
    "username": "fruhara"
   },
   {
    "login": "tjayrocket",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-02T15:29:50.402929+00:00",
    "title": "Wall Street Kid",
    "username": "TJayRocket"
   },
   {
    "login": "courtney_a_ok",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-02T15:31:26.877429+00:00",
    "title": "Paper Mario: The Thousand-Year Door",
    "username": "courtney_a_ok"
   },
   {
    "login": "shadikennn",
-   "pos": 7,
+   "pos": 6,
    "requested_at": "2026-09-02T15:39:28.040433+00:00",
    "title": "Beetle Adventure Racing!",
    "username": "Shadikennn"
+  },
+  {
+   "login": "notsumei",
+   "pos": 7,
+   "requested_at": "2026-09-02T15:41:04.042928+00:00",
+   "title": "Chase the Chuck Wagon",
+   "username": "NOTsumei"
   }
  ],
  "locked": false,
- "now_playing": "Mega-Maze",
- "platform": "Wheel of Nostalgia",
+ "now_playing": "Super Monkey Ball: Banana Blitz",
+ "platform": "Nintendo Wii",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Nintendo_Wii"
 }
