@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 8,
- "generated_at": "Sep 02, 2026 11:55 AM",
- "generated_ts": 1788368100,
+ "count": 10,
+ "generated_at": "Sep 02, 2026 12:00 PM",
+ "generated_ts": 1788368400,
  "items": [
   {
    "login": "tjayrocket",
@@ -59,12 +59,26 @@
    "requested_at": "2026-09-02T16:50:03.591428+00:00",
    "title": "Soul Eater: Battle Resonance",
    "username": "berserk_dark_cacao"
+  },
+  {
+   "login": "courtney_a_ok",
+   "pos": 9,
+   "requested_at": "2026-09-02T16:56:10.136428+00:00",
+   "title": "Super Mario Sunshine",
+   "username": "courtney_a_ok"
+  },
+  {
+   "login": "fruhara",
+   "pos": 10,
+   "requested_at": "2026-09-02T16:58:51.494429+00:00",
+   "title": "Underworld: The Eternal War",
+   "username": "fruhara"
   }
  ],
  "locked": false,
  "now_playing": "Under the Skin",
- "platform": "Sony PlayStation 2",
+ "platform": "Wheel of Nostalgia",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sony_PlayStation_2"
+ "theme": "Default"
 }
