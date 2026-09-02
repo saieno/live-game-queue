@@ -1,63 +1,56 @@
 {
  "channel": "retrosaieno",
- "count": 7,
- "generated_at": "Sep 02, 2026 12:55 PM",
- "generated_ts": 1788371700,
+ "count": 6,
+ "generated_at": "Sep 02, 2026 01:00 PM",
+ "generated_ts": 1788372000,
  "items": [
   {
-   "login": "shadikennn",
-   "pos": 1,
-   "requested_at": "2026-09-02T15:39:28.040433+00:00",
-   "title": "Beetle Adventure Racing!",
-   "username": "Shadikennn"
-  },
-  {
    "login": "notsumei",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-02T15:41:04.042928+00:00",
    "title": "Chase the Chuck Wagon",
    "username": "NOTsumei"
   },
   {
    "login": "purplevoided",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-02T16:04:53.675424+00:00",
    "title": "Speed Punks",
    "username": "PurpleVoided"
   },
   {
    "login": "thor_q",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-02T16:20:59.861431+00:00",
    "title": "Sonic Adventure 2",
    "username": "Thor_Q"
   },
   {
    "login": "ftakano",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-02T16:39:42.463926+00:00",
    "title": "Megaman X6",
    "username": "fTakano"
   },
   {
    "login": "berserk_dark_cacao",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-02T16:50:03.591428+00:00",
    "title": "Soul Eater: Battle Resonance",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "courtney_a_ok",
-   "pos": 7,
+   "pos": 6,
    "requested_at": "2026-09-02T16:56:10.136428+00:00",
    "title": "Super Mario Sunshine",
    "username": "courtney_a_ok"
   }
  ],
  "locked": true,
- "now_playing": "Paper Mario: The Thousand-Year Door",
- "platform": "Wheel of Nostalgia",
+ "now_playing": "Beetle Adventure Racing!",
+ "platform": "Nintendo 64",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Nintendo_64"
 }
