@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 5,
- "generated_at": "Sep 02, 2026 10:30 AM",
- "generated_ts": 1788363000,
+ "count": 6,
+ "generated_at": "Sep 02, 2026 10:35 AM",
+ "generated_ts": 1788363300,
  "items": [
   {
    "login": "mistressmercy",
@@ -38,12 +38,19 @@
    "requested_at": "2026-09-02T15:29:50.402929+00:00",
    "title": "Wall Street Kid",
    "username": "TJayRocket"
+  },
+  {
+   "login": "courtney_a_ok",
+   "pos": 6,
+   "requested_at": "2026-09-02T15:31:26.877429+00:00",
+   "title": "Paper Mario: The Thousand-Year Door",
+   "username": "courtney_a_ok"
   }
  ],
  "locked": false,
- "now_playing": "Momotarou Densetsu Turbo",
- "platform": "NEC PC Engine",
+ "now_playing": "Mega-Maze",
+ "platform": "Philips CD-I",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "NEC_PC_Engine"
+ "theme": "Philips_CD-I"
 }
