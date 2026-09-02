@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 10,
- "generated_at": "Sep 02, 2026 12:10 PM",
- "generated_ts": 1788369000,
+ "count": 9,
+ "generated_at": "Sep 02, 2026 12:15 PM",
+ "generated_ts": 1788369300,
  "items": [
   {
    "login": "tjayrocket",
@@ -66,18 +66,11 @@
    "requested_at": "2026-09-02T16:56:10.136428+00:00",
    "title": "Super Mario Sunshine",
    "username": "courtney_a_ok"
-  },
-  {
-   "login": "fruhara",
-   "pos": 10,
-   "requested_at": "2026-09-02T16:58:51.494429+00:00",
-   "title": "Underworld: The Eternal War",
-   "username": "fruhara"
   }
  ],
  "locked": true,
- "now_playing": "Under the Skin",
- "platform": "Wheel of Nostalgia",
+ "now_playing": "Underworld: The Eternal War",
+ "platform": "JustChatting",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
