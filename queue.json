@@ -1,10 +1,25 @@
 {
  "channel": "retrosaieno",
- "count": 0,
- "generated_at": "Sep 02, 2026 10:15 AM",
- "generated_ts": 1788362100,
- "items": [],
- "locked": true,
+ "count": 2,
+ "generated_at": "Sep 02, 2026 10:20 AM",
+ "generated_ts": 1788362400,
+ "items": [
+  {
+   "login": "mistressmercy",
+   "pos": 1,
+   "requested_at": "2026-09-02T15:18:09.830926+00:00",
+   "title": "Super Monkey Ball: Banana Blitz",
+   "username": "MistressMercy"
+  },
+  {
+   "login": "berserk_dark_cacao",
+   "pos": 2,
+   "requested_at": "2026-09-02T15:18:58.722424+00:00",
+   "title": "Soul Eater: Monotone Princess",
+   "username": "berserk_dark_cacao"
+  }
+ ],
+ "locked": false,
  "now_playing": "Jet Grind Radio",
  "platform": "JustChatting",
  "schema": 1,
