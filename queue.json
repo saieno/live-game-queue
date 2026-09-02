@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 9,
- "generated_at": "Sep 02, 2026 12:15 PM",
- "generated_ts": 1788369300,
+ "generated_at": "Sep 02, 2026 12:20 PM",
+ "generated_ts": 1788369600,
  "items": [
   {
    "login": "tjayrocket",
@@ -70,8 +70,8 @@
  ],
  "locked": true,
  "now_playing": "Underworld: The Eternal War",
- "platform": "JustChatting",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_2"
 }
