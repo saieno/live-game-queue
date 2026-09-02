@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 7,
- "generated_at": "Sep 02, 2026 12:45 PM",
- "generated_ts": 1788371100,
+ "generated_at": "Sep 02, 2026 12:55 PM",
+ "generated_ts": 1788371700,
  "items": [
   {
    "login": "shadikennn",
@@ -56,8 +56,8 @@
  ],
  "locked": true,
  "now_playing": "Paper Mario: The Thousand-Year Door",
- "platform": "Nintendo GameCube",
+ "platform": "Wheel of Nostalgia",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Nintendo_GameCube"
+ "theme": "Default"
 }
