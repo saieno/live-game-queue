@@ -1,28 +1,21 @@
 {
  "channel": "retrosaieno",
- "count": 2,
- "generated_at": "Sep 02, 2026 01:45 PM",
- "generated_ts": 1788374700,
+ "count": 1,
+ "generated_at": "Sep 02, 2026 01:55 PM",
+ "generated_ts": 1788375300,
  "items": [
   {
-   "login": "berserk_dark_cacao",
-   "pos": 1,
-   "requested_at": "2026-09-02T16:50:03.591428+00:00",
-   "title": "Soul Eater: Battle Resonance",
-   "username": "berserk_dark_cacao"
-  },
-  {
    "login": "courtney_a_ok",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-02T16:56:10.136428+00:00",
    "title": "Super Mario Sunshine",
    "username": "courtney_a_ok"
   }
  ],
  "locked": true,
- "now_playing": "Megaman X6",
- "platform": "Sony PlayStation 1",
+ "now_playing": "Soul Eater: Battle Resonance",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sony_PlayStation_1"
+ "theme": "Sony_PlayStation_2"
 }
