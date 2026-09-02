@@ -1,49 +1,42 @@
 {
  "channel": "retrosaieno",
- "count": 5,
- "generated_at": "Sep 02, 2026 01:15 PM",
- "generated_ts": 1788372900,
+ "count": 4,
+ "generated_at": "Sep 02, 2026 01:20 PM",
+ "generated_ts": 1788373200,
  "items": [
   {
-   "login": "purplevoided",
-   "pos": 1,
-   "requested_at": "2026-09-02T16:04:53.675424+00:00",
-   "title": "Speed Punks",
-   "username": "PurpleVoided"
-  },
-  {
    "login": "thor_q",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-02T16:20:59.861431+00:00",
    "title": "Sonic Adventure 2",
    "username": "Thor_Q"
   },
   {
    "login": "ftakano",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-02T16:39:42.463926+00:00",
    "title": "Megaman X6",
    "username": "fTakano"
   },
   {
    "login": "berserk_dark_cacao",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-02T16:50:03.591428+00:00",
    "title": "Soul Eater: Battle Resonance",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "courtney_a_ok",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-02T16:56:10.136428+00:00",
    "title": "Super Mario Sunshine",
    "username": "courtney_a_ok"
   }
  ],
  "locked": true,
- "now_playing": "Chase the Chuck Wagon",
- "platform": "Atari 2600",
+ "now_playing": "Speed Punks",
+ "platform": "Sony PlayStation 1",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Atari_2600"
+ "theme": "Sony_PlayStation_1"
 }
