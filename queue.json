@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 7,
- "generated_at": "Sep 02, 2026 11:50 AM",
- "generated_ts": 1788367800,
+ "count": 8,
+ "generated_at": "Sep 02, 2026 11:55 AM",
+ "generated_ts": 1788368100,
  "items": [
   {
    "login": "tjayrocket",
@@ -52,6 +52,13 @@
    "requested_at": "2026-09-02T16:39:42.463926+00:00",
    "title": "Megaman X6",
    "username": "fTakano"
+  },
+  {
+   "login": "berserk_dark_cacao",
+   "pos": 8,
+   "requested_at": "2026-09-02T16:50:03.591428+00:00",
+   "title": "Soul Eater: Battle Resonance",
+   "username": "berserk_dark_cacao"
   }
  ],
  "locked": false,
