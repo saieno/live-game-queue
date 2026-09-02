@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 6,
- "generated_at": "Sep 02, 2026 11:15 AM",
- "generated_ts": 1788365700,
+ "count": 7,
+ "generated_at": "Sep 02, 2026 11:25 AM",
+ "generated_ts": 1788366300,
  "items": [
   {
    "login": "thedogmatix",
@@ -45,12 +45,19 @@
    "requested_at": "2026-09-02T16:04:53.675424+00:00",
    "title": "Speed Punks",
    "username": "PurpleVoided"
+  },
+  {
+   "login": "thor_q",
+   "pos": 7,
+   "requested_at": "2026-09-02T16:20:59.861431+00:00",
+   "title": "Sonic Adventure 2",
+   "username": "Thor_Q"
   }
  ],
  "locked": false,
  "now_playing": "Soul Eater: Monotone Princess",
- "platform": "JustChatting",
+ "platform": "Nintendo Wii",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Nintendo_Wii"
 }
