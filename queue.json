@@ -1,21 +1,13 @@
 {
  "channel": "retrosaieno",
- "count": 1,
- "generated_at": "Sep 02, 2026 01:55 PM",
- "generated_ts": 1788375300,
- "items": [
-  {
-   "login": "courtney_a_ok",
-   "pos": 1,
-   "requested_at": "2026-09-02T16:56:10.136428+00:00",
-   "title": "Super Mario Sunshine",
-   "username": "courtney_a_ok"
-  }
- ],
+ "count": 0,
+ "generated_at": "Sep 02, 2026 02:00 PM",
+ "generated_ts": 1788375600,
+ "items": [],
  "locked": true,
- "now_playing": "Soul Eater: Battle Resonance",
- "platform": "Sony PlayStation 2",
+ "now_playing": "Super Mario Sunshine",
+ "platform": "Nintendo GameCube",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sony_PlayStation_2"
+ "theme": "Nintendo_GameCube"
 }
