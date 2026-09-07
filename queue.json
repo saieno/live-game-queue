@@ -1,13 +1,13 @@
 {
  "channel": "retrosaieno",
  "count": 0,
- "generated_at": "Sep 07, 2026 11:55 AM",
- "generated_ts": 1788800100,
+ "generated_at": "Sep 07, 2026 12:05 PM",
+ "generated_ts": 1788800700,
  "items": [],
  "locked": true,
  "now_playing": "Renketsu Puzzle Tsunagete Pon!",
- "platform": "SNK NeoGeo Pocket",
+ "platform": "Wheel of Nostalgia",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "SNK_NeoGeo_Pocket"
+ "theme": "Default"
 }
