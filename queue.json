@@ -1,13 +1,13 @@
 {
  "channel": "retrosaieno",
  "count": 0,
- "generated_at": "Sep 07, 2026 11:05 AM",
- "generated_ts": 1788797100,
+ "generated_at": "Sep 07, 2026 11:55 AM",
+ "generated_ts": 1788800100,
  "items": [],
  "locked": true,
- "now_playing": "Metroid: Zero Mission",
- "platform": "Nintendo Game Boy Advance",
+ "now_playing": "Renketsu Puzzle Tsunagete Pon!",
+ "platform": "SNK NeoGeo Pocket",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Nintendo_Game_Boy_Advance"
+ "theme": "SNK_NeoGeo_Pocket"
 }
