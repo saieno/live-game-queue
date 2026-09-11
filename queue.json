@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 6,
- "generated_at": "Sep 11, 2026 12:45 PM",
- "generated_ts": 1789148700,
+ "count": 7,
+ "generated_at": "Sep 11, 2026 01:05 PM",
+ "generated_ts": 1789149900,
  "items": [
   {
    "login": "shadikennn",
@@ -45,6 +45,13 @@
    "requested_at": "2026-09-11T17:35:41.575564+00:00",
    "title": "SOS",
    "username": "Dango_Rangus"
+  },
+  {
+   "login": "rooster1llusion",
+   "pos": 7,
+   "requested_at": "2026-09-11T18:02:19.687562+00:00",
+   "title": "Blasto",
+   "username": "Rooster1llusion"
   }
  ],
  "locked": false,
