@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 13,
- "generated_at": "Sep 11, 2026 01:45 PM",
- "generated_ts": 1789152300,
+ "generated_at": "Sep 11, 2026 02:35 PM",
+ "generated_ts": 1789155300,
  "items": [
   {
    "login": "shadikennn",
@@ -98,7 +98,7 @@
  ],
  "locked": false,
  "now_playing": "Final Fantasy VII",
- "platform": "Reaction",
+ "platform": "JustChatting",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
