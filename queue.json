@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 12,
- "generated_at": "Sep 11, 2026 01:25 PM",
- "generated_ts": 1789151100,
+ "count": 13,
+ "generated_at": "Sep 11, 2026 01:45 PM",
+ "generated_ts": 1789152300,
  "items": [
   {
    "login": "shadikennn",
@@ -87,6 +87,13 @@
    "requested_at": "2026-09-11T18:21:49.555565+00:00",
    "title": "Star Wars: Episode I: Racer",
    "username": "fTakano"
+  },
+  {
+   "login": "berserk_dark_cacao",
+   "pos": 13,
+   "requested_at": "2026-09-11T18:44:54.110068+00:00",
+   "title": "Soul Eater: Battle Resonance",
+   "username": "berserk_dark_cacao"
   }
  ],
  "locked": false,
