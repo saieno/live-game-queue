@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 13,
- "generated_at": "Sep 11, 2026 06:15 PM",
- "generated_ts": 1789168500,
+ "generated_at": "Sep 11, 2026 06:20 PM",
+ "generated_ts": 1789168800,
  "items": [
   {
    "login": "berserk_dark_cacao",
@@ -98,8 +98,8 @@
  ],
  "locked": true,
  "now_playing": "Buffy the Vampire Slayer: Chaos Bleeds",
- "platform": "Nintendo GameCube",
+ "platform": "Wheel of Nostalgia",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Nintendo_GameCube"
+ "theme": "Default"
 }
