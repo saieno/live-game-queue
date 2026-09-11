@@ -1,9 +1,17 @@
 {
  "channel": "retrosaieno",
- "count": 0,
- "generated_at": "Sep 11, 2026 12:25 PM",
- "generated_ts": 1789147500,
- "items": [],
+ "count": 1,
+ "generated_at": "Sep 11, 2026 12:30 PM",
+ "generated_ts": 1789147800,
+ "items": [
+  {
+   "login": "rs25",
+   "pos": 1,
+   "requested_at": "2026-09-11T17:25:46.267064+00:00",
+   "title": "Star Wars: Episode III: Revenge of the Sith",
+   "username": "RS25"
+  }
+ ],
  "locked": false,
  "now_playing": "Final Fantasy VII",
  "platform": "JustChatting",
