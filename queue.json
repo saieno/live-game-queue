@@ -1,98 +1,91 @@
 {
  "channel": "retrosaieno",
- "count": 12,
- "generated_at": "Sep 11, 2026 06:25 PM",
- "generated_ts": 1789169100,
+ "count": 11,
+ "generated_at": "Sep 11, 2026 06:30 PM",
+ "generated_ts": 1789169400,
  "items": [
   {
-   "login": "notsumei",
-   "pos": 1,
-   "requested_at": "2026-09-11T20:39:38.947563+00:00",
-   "title": "Kinetica",
-   "username": "NOTsumei"
-  },
-  {
    "login": "ftakano",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-11T18:21:49.555565+00:00",
    "title": "Star Wars: Episode I: Racer",
    "username": "fTakano"
   },
   {
    "login": "dango_rangus",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-11T17:35:41.575564+00:00",
    "title": "SOS",
    "username": "Dango_Rangus"
   },
   {
    "login": "rooster1llusion",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-11T18:02:19.687562+00:00",
    "title": "Blasto",
    "username": "Rooster1llusion"
   },
   {
    "login": "guiniguy",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-11T18:05:14.794564+00:00",
    "title": "The Last Story",
    "username": "guiniguy"
   },
   {
    "login": "crovera420",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-11T18:07:48.251064+00:00",
    "title": "Mortal Kombat: Deception",
    "username": "CroVera420"
   },
   {
    "login": "x33843",
-   "pos": 7,
+   "pos": 6,
    "requested_at": "2026-09-11T18:08:19.284068+00:00",
    "title": "Kula World",
    "username": "x33843"
   },
   {
    "login": "thedogmatix",
-   "pos": 8,
+   "pos": 7,
    "requested_at": "2026-09-11T18:14:12.084573+00:00",
    "title": "Kirby 64: The Crystal Shards",
    "username": "TheDogmatix"
   },
   {
    "login": "courtney_a_ok",
-   "pos": 9,
+   "pos": 8,
    "requested_at": "2026-09-11T20:14:12.629566+00:00",
    "title": "Paper Mario: The Thousand-Year Door",
    "username": "courtney_a_ok"
   },
   {
    "login": "donatedstoner",
-   "pos": 10,
+   "pos": 9,
    "requested_at": "2026-09-11T20:42:49.056066+00:00",
    "title": "One Piece: Niji no Shima Densetsu",
    "username": "DonatedStoner"
   },
   {
    "login": "iamjenthefriend",
-   "pos": 11,
+   "pos": 10,
    "requested_at": "2026-09-11T20:59:01.960064+00:00",
    "title": "The Legend of Zelda: Ocarina of Time 3D",
    "username": "iamjenthefriend"
   },
   {
    "login": "axedanner",
-   "pos": 12,
+   "pos": 11,
    "requested_at": "2026-09-11T21:25:32.685572+00:00",
    "title": "Frogger 3D",
    "username": "Axedanner"
   }
  ],
  "locked": true,
- "now_playing": "Soul Eater: Battle Resonance",
- "platform": "Sony PlayStation Portable",
+ "now_playing": "Kinetica",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sony_PlayStation_Portable"
+ "theme": "Sony_PlayStation_2"
 }
