@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 14,
- "generated_at": "Sep 11, 2026 03:35 PM",
- "generated_ts": 1789158900,
+ "count": 15,
+ "generated_at": "Sep 11, 2026 03:40 PM",
+ "generated_ts": 1789159200,
  "items": [
   {
    "login": "shadikennn",
@@ -101,12 +101,19 @@
    "requested_at": "2026-09-11T20:14:12.629566+00:00",
    "title": "Paper Mario: The Thousand-Year Door",
    "username": "courtney_a_ok"
+  },
+  {
+   "login": "notsumei",
+   "pos": 15,
+   "requested_at": "2026-09-11T20:39:38.947563+00:00",
+   "title": "Kinetica",
+   "username": "NOTsumei"
   }
  ],
  "locked": false,
  "now_playing": "Final Fantasy VII",
- "platform": "JustChatting",
+ "platform": "Steam",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Steam"
 }
