@@ -1,126 +1,126 @@
 {
  "channel": "retrosaieno",
  "count": 16,
- "generated_at": "Sep 11, 2026 03:45 PM",
- "generated_ts": 1789159500,
+ "generated_at": "Sep 11, 2026 04:00 PM",
+ "generated_ts": 1789160400,
  "items": [
   {
-   "login": "shadikennn",
-   "pos": 1,
-   "requested_at": "2026-09-11T17:33:09.485564+00:00",
-   "title": "Pac-Man Party 3D",
-   "username": "Shadikennn"
-  },
-  {
    "login": "fruhara",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-11T17:32:58.587063+00:00",
    "title": "Ratchet & Clank: Up Your Arsenal",
    "username": "fruhara"
   },
   {
    "login": "rs25",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-11T17:25:46.267064+00:00",
    "title": "Star Wars: Episode III: Revenge of the Sith",
    "username": "RS25"
   },
   {
    "login": "ftakano",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-11T17:33:07.771564+00:00",
    "title": "Pinball",
    "username": "fTakano"
   },
   {
    "login": "crovera420",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-11T17:34:45.584065+00:00",
    "title": "Buffy the Vampire Slayer: Chaos Bleeds",
    "username": "CroVera420"
   },
   {
    "login": "dango_rangus",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-11T17:35:41.575564+00:00",
    "title": "SOS",
    "username": "Dango_Rangus"
   },
   {
    "login": "rooster1llusion",
-   "pos": 7,
+   "pos": 6,
    "requested_at": "2026-09-11T18:02:19.687562+00:00",
    "title": "Blasto",
    "username": "Rooster1llusion"
   },
   {
    "login": "guiniguy",
-   "pos": 8,
+   "pos": 7,
    "requested_at": "2026-09-11T18:05:14.794564+00:00",
    "title": "The Last Story",
    "username": "guiniguy"
   },
   {
    "login": "crovera420",
-   "pos": 9,
+   "pos": 8,
    "requested_at": "2026-09-11T18:07:48.251064+00:00",
    "title": "Mortal Kombat: Deception",
    "username": "CroVera420"
   },
   {
    "login": "x33843",
-   "pos": 10,
+   "pos": 9,
    "requested_at": "2026-09-11T18:08:19.284068+00:00",
    "title": "Kula World",
    "username": "x33843"
   },
   {
    "login": "thedogmatix",
-   "pos": 11,
+   "pos": 10,
    "requested_at": "2026-09-11T18:14:12.084573+00:00",
    "title": "Kirby 64: The Crystal Shards",
    "username": "TheDogmatix"
   },
   {
    "login": "ftakano",
-   "pos": 12,
+   "pos": 11,
    "requested_at": "2026-09-11T18:21:49.555565+00:00",
    "title": "Star Wars: Episode I: Racer",
    "username": "fTakano"
   },
   {
    "login": "berserk_dark_cacao",
-   "pos": 13,
+   "pos": 12,
    "requested_at": "2026-09-11T18:44:54.110068+00:00",
    "title": "Soul Eater: Battle Resonance",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "courtney_a_ok",
-   "pos": 14,
+   "pos": 13,
    "requested_at": "2026-09-11T20:14:12.629566+00:00",
    "title": "Paper Mario: The Thousand-Year Door",
    "username": "courtney_a_ok"
   },
   {
    "login": "notsumei",
-   "pos": 15,
+   "pos": 14,
    "requested_at": "2026-09-11T20:39:38.947563+00:00",
    "title": "Kinetica",
    "username": "NOTsumei"
   },
   {
    "login": "donatedstoner",
-   "pos": 16,
+   "pos": 15,
    "requested_at": "2026-09-11T20:42:49.056066+00:00",
    "title": "One Piece: Niji no Shima Densetsu",
    "username": "DonatedStoner"
+  },
+  {
+   "login": "iamjenthefriend",
+   "pos": 16,
+   "requested_at": "2026-09-11T20:59:01.960064+00:00",
+   "title": "The Legend of Zelda: Ocarina of Time 3D",
+   "username": "iamjenthefriend"
   }
  ],
  "locked": false,
- "now_playing": "Final Fantasy VII",
- "platform": "Steam",
+ "now_playing": "Pac-Man Party 3D",
+ "platform": "Nintendo 3DS",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Steam"
+ "theme": "Nintendo_3DS"
 }
