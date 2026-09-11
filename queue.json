@@ -1,71 +1,71 @@
 {
  "channel": "retrosaieno",
  "count": 14,
- "generated_at": "Sep 11, 2026 05:50 PM",
- "generated_ts": 1789167000,
+ "generated_at": "Sep 11, 2026 05:55 PM",
+ "generated_ts": 1789167300,
  "items": [
   {
-   "login": "crovera420",
+   "login": "berserk_dark_cacao",
    "pos": 1,
+   "requested_at": "2026-09-11T18:44:54.110068+00:00",
+   "title": "Soul Eater: Battle Resonance",
+   "username": "berserk_dark_cacao"
+  },
+  {
+   "login": "crovera420",
+   "pos": 2,
    "requested_at": "2026-09-11T17:34:45.584065+00:00",
    "title": "Buffy the Vampire Slayer: Chaos Bleeds",
    "username": "CroVera420"
   },
   {
    "login": "dango_rangus",
-   "pos": 2,
+   "pos": 3,
    "requested_at": "2026-09-11T17:35:41.575564+00:00",
    "title": "SOS",
    "username": "Dango_Rangus"
   },
   {
    "login": "rooster1llusion",
-   "pos": 3,
+   "pos": 4,
    "requested_at": "2026-09-11T18:02:19.687562+00:00",
    "title": "Blasto",
    "username": "Rooster1llusion"
   },
   {
    "login": "guiniguy",
-   "pos": 4,
+   "pos": 5,
    "requested_at": "2026-09-11T18:05:14.794564+00:00",
    "title": "The Last Story",
    "username": "guiniguy"
   },
   {
    "login": "crovera420",
-   "pos": 5,
+   "pos": 6,
    "requested_at": "2026-09-11T18:07:48.251064+00:00",
    "title": "Mortal Kombat: Deception",
    "username": "CroVera420"
   },
   {
    "login": "x33843",
-   "pos": 6,
+   "pos": 7,
    "requested_at": "2026-09-11T18:08:19.284068+00:00",
    "title": "Kula World",
    "username": "x33843"
   },
   {
    "login": "thedogmatix",
-   "pos": 7,
+   "pos": 8,
    "requested_at": "2026-09-11T18:14:12.084573+00:00",
    "title": "Kirby 64: The Crystal Shards",
    "username": "TheDogmatix"
   },
   {
    "login": "ftakano",
-   "pos": 8,
+   "pos": 9,
    "requested_at": "2026-09-11T18:21:49.555565+00:00",
    "title": "Star Wars: Episode I: Racer",
    "username": "fTakano"
-  },
-  {
-   "login": "berserk_dark_cacao",
-   "pos": 9,
-   "requested_at": "2026-09-11T18:44:54.110068+00:00",
-   "title": "Soul Eater: Battle Resonance",
-   "username": "berserk_dark_cacao"
   },
   {
    "login": "courtney_a_ok",
