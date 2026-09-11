@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 10,
- "generated_at": "Sep 11, 2026 01:10 PM",
- "generated_ts": 1789150200,
+ "count": 11,
+ "generated_at": "Sep 11, 2026 01:15 PM",
+ "generated_ts": 1789150500,
  "items": [
   {
    "login": "shadikennn",
@@ -73,11 +73,18 @@
    "requested_at": "2026-09-11T18:08:19.284068+00:00",
    "title": "Kula World",
    "username": "x33843"
+  },
+  {
+   "login": "thedogmatix",
+   "pos": 11,
+   "requested_at": "2026-09-11T18:14:12.084573+00:00",
+   "title": "Kirby 64: The Crystal Shards",
+   "username": "TheDogmatix"
   }
  ],
  "locked": false,
  "now_playing": "Final Fantasy VII",
- "platform": "JustChatting",
+ "platform": "Reaction",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
