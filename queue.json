@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 5,
- "generated_at": "Sep 11, 2026 12:35 PM",
- "generated_ts": 1789148100,
+ "count": 6,
+ "generated_at": "Sep 11, 2026 12:40 PM",
+ "generated_ts": 1789148400,
  "items": [
   {
    "login": "shadikennn",
@@ -38,6 +38,13 @@
    "requested_at": "2026-09-11T17:34:45.584065+00:00",
    "title": "Buffy the Vampire Slayer: Chaos Bleeds",
    "username": "CroVera420"
+  },
+  {
+   "login": "dango_rangus",
+   "pos": 6,
+   "requested_at": "2026-09-11T17:35:41.575564+00:00",
+   "title": "SOS",
+   "username": "Dango_Rangus"
   }
  ],
  "locked": false,
