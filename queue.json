@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 7,
- "generated_at": "Sep 11, 2026 01:05 PM",
- "generated_ts": 1789149900,
+ "count": 10,
+ "generated_at": "Sep 11, 2026 01:10 PM",
+ "generated_ts": 1789150200,
  "items": [
   {
    "login": "shadikennn",
@@ -52,11 +52,32 @@
    "requested_at": "2026-09-11T18:02:19.687562+00:00",
    "title": "Blasto",
    "username": "Rooster1llusion"
+  },
+  {
+   "login": "guiniguy",
+   "pos": 8,
+   "requested_at": "2026-09-11T18:05:14.794564+00:00",
+   "title": "The Last Story",
+   "username": "guiniguy"
+  },
+  {
+   "login": "crovera420",
+   "pos": 9,
+   "requested_at": "2026-09-11T18:07:48.251064+00:00",
+   "title": "Mortal Kombat: Deception",
+   "username": "CroVera420"
+  },
+  {
+   "login": "x33843",
+   "pos": 10,
+   "requested_at": "2026-09-11T18:08:19.284068+00:00",
+   "title": "Kula World",
+   "username": "x33843"
   }
  ],
  "locked": false,
  "now_playing": "Final Fantasy VII",
- "platform": "Reaction",
+ "platform": "JustChatting",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
