@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 16,
- "generated_at": "Sep 11, 2026 04:10 PM",
- "generated_ts": 1789161000,
+ "generated_at": "Sep 11, 2026 04:15 PM",
+ "generated_ts": 1789161300,
  "items": [
   {
    "login": "fruhara",
@@ -119,7 +119,7 @@
  ],
  "locked": false,
  "now_playing": "Pac-Man Party 3D",
- "platform": "Raided",
+ "platform": "JustChatting",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
