@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 9,
- "generated_at": "Sep 11, 2026 07:05 PM",
- "generated_ts": 1789171500,
+ "generated_at": "Sep 11, 2026 07:20 PM",
+ "generated_ts": 1789172400,
  "items": [
   {
    "login": "rooster1llusion",
@@ -70,8 +70,8 @@
  ],
  "locked": true,
  "now_playing": "S.O.S: Sink or Swim",
- "platform": "JustChatting",
+ "platform": "Super Nintendo Entertainment System",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Super_Nintendo_Entertainment_System"
 }
