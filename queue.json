@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 9,
- "generated_at": "Sep 11, 2026 06:55 PM",
- "generated_ts": 1789170900,
+ "generated_at": "Sep 11, 2026 07:00 PM",
+ "generated_ts": 1789171200,
  "items": [
   {
    "login": "rooster1llusion",
@@ -70,7 +70,7 @@
  ],
  "locked": true,
  "now_playing": "S.O.S: Sink or Swim",
- "platform": "Wheel of Nostalgia",
+ "platform": "Starting Soon",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
