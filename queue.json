@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 5,
- "generated_at": "Sep 11, 2026 08:35 PM",
- "generated_ts": 1789176900,
+ "generated_at": "Sep 11, 2026 08:40 PM",
+ "generated_ts": 1789177200,
  "items": [
   {
    "login": "thedogmatix",
@@ -42,8 +42,8 @@
  ],
  "locked": true,
  "now_playing": "Roll Away",
- "platform": "JustChatting",
+ "platform": "Sony PlayStation 1",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_1"
 }
