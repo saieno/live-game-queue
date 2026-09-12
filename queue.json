@@ -1,42 +1,35 @@
 {
  "channel": "retrosaieno",
- "count": 4,
- "generated_at": "Sep 11, 2026 09:15 PM",
- "generated_ts": 1789179300,
+ "count": 3,
+ "generated_at": "Sep 11, 2026 09:40 PM",
+ "generated_ts": 1789180800,
  "items": [
   {
-   "login": "courtney_a_ok",
-   "pos": 1,
-   "requested_at": "2026-09-11T20:14:12.629566+00:00",
-   "title": "Paper Mario: The Thousand-Year Door",
-   "username": "courtney_a_ok"
-  },
-  {
    "login": "donatedstoner",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-11T20:42:49.056066+00:00",
    "title": "One Piece: Niji no Shima Densetsu",
    "username": "DonatedStoner"
   },
   {
    "login": "iamjenthefriend",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-11T20:59:01.960064+00:00",
    "title": "The Legend of Zelda: Ocarina of Time 3D",
    "username": "iamjenthefriend"
   },
   {
    "login": "axedanner",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-11T21:25:32.685572+00:00",
    "title": "Frogger 3D",
    "username": "Axedanner"
   }
  ],
  "locked": true,
- "now_playing": "Kirby 64: The Crystal Shards",
- "platform": "Starting Soon",
+ "now_playing": "Paper Mario: The Thousand-Year Door",
+ "platform": "Nintendo GameCube",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Nintendo_GameCube"
 }
