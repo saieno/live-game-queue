@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 8,
- "generated_at": "Sep 11, 2026 07:35 PM",
- "generated_ts": 1789173300,
+ "generated_at": "Sep 11, 2026 07:45 PM",
+ "generated_ts": 1789173900,
  "items": [
   {
    "login": "guiniguy",
@@ -63,7 +63,7 @@
  ],
  "locked": true,
  "now_playing": "Blasto",
- "platform": "JustChatting",
+ "platform": "Raided",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
  "theme": "Default"
