@@ -1,56 +1,49 @@
 {
  "channel": "retrosaieno",
- "count": 6,
- "generated_at": "Sep 11, 2026 08:20 PM",
- "generated_ts": 1789176000,
+ "count": 5,
+ "generated_at": "Sep 11, 2026 08:30 PM",
+ "generated_ts": 1789176600,
  "items": [
   {
-   "login": "x33843",
-   "pos": 1,
-   "requested_at": "2026-09-11T18:08:19.284068+00:00",
-   "title": "Kula World",
-   "username": "x33843"
-  },
-  {
    "login": "thedogmatix",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-11T18:14:12.084573+00:00",
    "title": "Kirby 64: The Crystal Shards",
    "username": "TheDogmatix"
   },
   {
    "login": "courtney_a_ok",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-11T20:14:12.629566+00:00",
    "title": "Paper Mario: The Thousand-Year Door",
    "username": "courtney_a_ok"
   },
   {
    "login": "donatedstoner",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-11T20:42:49.056066+00:00",
    "title": "One Piece: Niji no Shima Densetsu",
    "username": "DonatedStoner"
   },
   {
    "login": "iamjenthefriend",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-11T20:59:01.960064+00:00",
    "title": "The Legend of Zelda: Ocarina of Time 3D",
    "username": "iamjenthefriend"
   },
   {
    "login": "axedanner",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-11T21:25:32.685572+00:00",
    "title": "Frogger 3D",
    "username": "Axedanner"
   }
  ],
  "locked": true,
- "now_playing": "Mortal Kombat: Deception",
- "platform": "Microsoft Xbox",
+ "now_playing": "Roll Away",
+ "platform": "Sony PlayStation 1",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Microsoft_Xbox"
+ "theme": "Sony_PlayStation_1"
 }
