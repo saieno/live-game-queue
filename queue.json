@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 8,
- "generated_at": "Sep 11, 2026 07:45 PM",
- "generated_ts": 1789173900,
+ "generated_at": "Sep 11, 2026 07:50 PM",
+ "generated_ts": 1789174200,
  "items": [
   {
    "login": "guiniguy",
@@ -63,8 +63,8 @@
  ],
  "locked": true,
  "now_playing": "Blasto",
- "platform": "Raided",
+ "platform": "Sony PlayStation 1",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_1"
 }
