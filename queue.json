@@ -1,42 +1,35 @@
 {
  "channel": "retrosaieno",
- "count": 4,
- "generated_at": "Sep 21, 2026 01:20 PM",
- "generated_ts": 1790014800,
+ "count": 3,
+ "generated_at": "Sep 21, 2026 01:25 PM",
+ "generated_ts": 1790015100,
  "items": [
   {
-   "login": "big_tx",
-   "pos": 1,
-   "requested_at": "2026-09-21T16:05:55.658829+00:00",
-   "title": "Balloon Fight",
-   "username": "Big_Tx"
-  },
-  {
    "login": "berserk_dark_cacao",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-21T16:17:35.009339+00:00",
    "title": "Bloodborne PSX",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "ftakano",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-21T16:38:55.971832+00:00",
    "title": "Track and Field",
    "username": "fTakano"
   },
   {
    "login": "notsumei",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-21T16:57:19.933329+00:00",
    "title": "Highlander: The Last of the MacLeods",
    "username": "NOTsumei"
   }
  ],
  "locked": true,
- "now_playing": "Paper Mario: The Thousand-Year Door",
- "platform": "Wheel of Nostalgia",
+ "now_playing": "Balloon Fight",
+ "platform": "Sony PlayStation 1",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_1"
 }
