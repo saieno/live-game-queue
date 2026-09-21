@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 9,
- "generated_at": "Sep 21, 2026 11:20 AM",
- "generated_ts": 1790007600,
+ "generated_at": "Sep 21, 2026 11:25 AM",
+ "generated_ts": 1790007900,
  "items": [
   {
    "login": "ftakano",
@@ -69,9 +69,9 @@
   }
  ],
  "locked": false,
- "now_playing": "Tempo",
- "platform": "Sega 32X",
+ "now_playing": "Sonic 3D Blast",
+ "platform": "Sega Saturn",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sega_32X"
+ "theme": "Sega_Saturn"
 }
