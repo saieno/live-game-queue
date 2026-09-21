@@ -1,63 +1,63 @@
 {
  "channel": "retrosaieno",
  "count": 7,
- "generated_at": "Sep 21, 2026 11:00 AM",
- "generated_ts": 1790006400,
+ "generated_at": "Sep 21, 2026 11:05 AM",
+ "generated_ts": 1790006700,
  "items": [
   {
-   "login": "ftakano",
-   "pos": 1,
-   "requested_at": "2026-09-21T15:23:29.342831+00:00",
-   "title": "Ice Climber",
-   "username": "fTakano"
-  },
-  {
    "login": "notsumei",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-21T15:28:19.964343+00:00",
    "title": "Tempo",
    "username": "NOTsumei"
   },
   {
    "login": "ftakano",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-21T15:35:01.747328+00:00",
    "title": "B-Wings",
    "username": "fTakano"
   },
   {
    "login": "iamjenthefriend",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-21T15:35:26.869330+00:00",
    "title": "Bust-A-Move 3000",
    "username": "iamjenthefriend"
   },
   {
    "login": "guiniguy",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-21T15:35:33.998335+00:00",
    "title": "Onimusha: Warlords",
    "username": "guiniguy"
   },
   {
    "login": "rs25",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-21T15:40:54.184839+00:00",
    "title": "Indiana Jones and the Great Circle",
    "username": "RS25"
   },
   {
    "login": "berserk_dark_cacao",
-   "pos": 7,
+   "pos": 6,
    "requested_at": "2026-09-21T15:41:09.758828+00:00",
    "title": "P.T.",
    "username": "berserk_dark_cacao"
+  },
+  {
+   "login": "courtney_a_ok",
+   "pos": 7,
+   "requested_at": "2026-09-21T16:02:29.850837+00:00",
+   "title": "Paper Mario: The Thousand-Year Door",
+   "username": "courtney_a_ok"
   }
  ],
  "locked": false,
- "now_playing": "Paddington: Adventures in London",
- "platform": "Nintendo 3DS",
+ "now_playing": "Ice Climber",
+ "platform": "Nintendo Entertainment System",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Nintendo_3DS"
+ "theme": "Nintendo_Entertainment_System"
 }
