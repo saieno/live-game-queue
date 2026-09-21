@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 8,
- "generated_at": "Sep 21, 2026 11:30 AM",
- "generated_ts": 1790008200,
+ "generated_at": "Sep 21, 2026 11:35 AM",
+ "generated_ts": 1790008500,
  "items": [
   {
    "login": "iamjenthefriend",
@@ -62,9 +62,9 @@
   }
  ],
  "locked": false,
- "now_playing": "B-Wings",
- "platform": "Nintendo Famicom",
+ "now_playing": "B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin",
+ "platform": "Wheel of Nostalgia",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Nintendo_Famicom"
+ "theme": "Default"
 }
