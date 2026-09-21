@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 7,
- "generated_at": "Sep 21, 2026 11:55 AM",
- "generated_ts": 1790009700,
+ "count": 8,
+ "generated_at": "Sep 21, 2026 12:00 PM",
+ "generated_ts": 1790010000,
  "items": [
   {
    "login": "guiniguy",
@@ -52,6 +52,13 @@
    "requested_at": "2026-09-21T16:38:55.971832+00:00",
    "title": "Track and Field",
    "username": "fTakano"
+  },
+  {
+   "login": "notsumei",
+   "pos": 8,
+   "requested_at": "2026-09-21T16:57:19.933329+00:00",
+   "title": "Highlander: The Last of the MacLeods",
+   "username": "NOTsumei"
   }
  ],
  "locked": false,
