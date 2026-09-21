@@ -1,49 +1,42 @@
 {
  "channel": "retrosaieno",
- "count": 5,
- "generated_at": "Sep 21, 2026 12:55 PM",
- "generated_ts": 1790013300,
+ "count": 4,
+ "generated_at": "Sep 21, 2026 01:05 PM",
+ "generated_ts": 1790013900,
  "items": [
   {
-   "login": "courtney_a_ok",
-   "pos": 1,
-   "requested_at": "2026-09-21T16:02:29.850837+00:00",
-   "title": "Paper Mario: The Thousand-Year Door",
-   "username": "courtney_a_ok"
-  },
-  {
    "login": "big_tx",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-21T16:05:55.658829+00:00",
    "title": "Balloon Fight",
    "username": "Big_Tx"
   },
   {
    "login": "berserk_dark_cacao",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-21T16:17:35.009339+00:00",
    "title": "Bloodborne PSX",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "ftakano",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-21T16:38:55.971832+00:00",
    "title": "Track and Field",
    "username": "fTakano"
   },
   {
    "login": "notsumei",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-21T16:57:19.933329+00:00",
    "title": "Highlander: The Last of the MacLeods",
    "username": "NOTsumei"
   }
  ],
  "locked": true,
- "now_playing": "P.T.",
- "platform": "Sony PlayStation 4",
+ "now_playing": "Paper Mario: The Thousand-Year Door",
+ "platform": "Nintendo GameCube",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sony_PlayStation_4"
+ "theme": "Nintendo_GameCube"
 }
