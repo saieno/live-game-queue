@@ -1,13 +1,28 @@
 {
  "channel": "retrosaieno",
- "count": 0,
- "generated_at": "Sep 21, 2026 10:10 AM",
- "generated_ts": 1790003400,
- "items": [],
- "locked": true,
+ "count": 2,
+ "generated_at": "Sep 21, 2026 10:25 AM",
+ "generated_ts": 1790004300,
+ "items": [
+  {
+   "login": "ftakano",
+   "pos": 1,
+   "requested_at": "2026-09-21T15:23:29.342831+00:00",
+   "title": "Ice Climber",
+   "username": "fTakano"
+  },
+  {
+   "login": "berserk_dark_cacao",
+   "pos": 2,
+   "requested_at": "2026-09-21T15:24:27.527830+00:00",
+   "title": "Diablo III: Reaper of Souls: Ultimate Evil Edition",
+   "username": "berserk_dark_cacao"
+  }
+ ],
+ "locked": false,
  "now_playing": "Mouse: P.I. For Hire",
- "platform": "JustChatting",
+ "platform": "Sega Genesis",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sega_Genesis"
 }
