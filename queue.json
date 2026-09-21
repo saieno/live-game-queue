@@ -1,56 +1,49 @@
 {
  "channel": "retrosaieno",
- "count": 6,
- "generated_at": "Sep 21, 2026 12:35 PM",
- "generated_ts": 1790012100,
+ "count": 5,
+ "generated_at": "Sep 21, 2026 12:55 PM",
+ "generated_ts": 1790013300,
  "items": [
   {
-   "login": "berserk_dark_cacao",
-   "pos": 1,
-   "requested_at": "2026-09-21T15:41:09.758828+00:00",
-   "title": "P.T.",
-   "username": "berserk_dark_cacao"
-  },
-  {
    "login": "courtney_a_ok",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-21T16:02:29.850837+00:00",
    "title": "Paper Mario: The Thousand-Year Door",
    "username": "courtney_a_ok"
   },
   {
    "login": "big_tx",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-21T16:05:55.658829+00:00",
    "title": "Balloon Fight",
    "username": "Big_Tx"
   },
   {
    "login": "berserk_dark_cacao",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-21T16:17:35.009339+00:00",
    "title": "Bloodborne PSX",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "ftakano",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-21T16:38:55.971832+00:00",
    "title": "Track and Field",
    "username": "fTakano"
   },
   {
    "login": "notsumei",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-21T16:57:19.933329+00:00",
    "title": "Highlander: The Last of the MacLeods",
    "username": "NOTsumei"
   }
  ],
  "locked": true,
- "now_playing": "Indiana Jones and the Great Circle",
- "platform": "Microsoft Xbox One",
+ "now_playing": "P.T.",
+ "platform": "Sony PlayStation 4",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Microsoft_Xbox_One"
+ "theme": "Sony_PlayStation_4"
 }
