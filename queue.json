@@ -1,70 +1,63 @@
 {
  "channel": "retrosaieno",
- "count": 8,
- "generated_at": "Sep 21, 2026 12:05 PM",
- "generated_ts": 1790010300,
+ "count": 7,
+ "generated_at": "Sep 21, 2026 12:10 PM",
+ "generated_ts": 1790010600,
  "items": [
   {
-   "login": "guiniguy",
-   "pos": 1,
-   "requested_at": "2026-09-21T15:35:33.998335+00:00",
-   "title": "Onimusha: Warlords",
-   "username": "guiniguy"
-  },
-  {
    "login": "rs25",
-   "pos": 2,
+   "pos": 1,
    "requested_at": "2026-09-21T15:40:54.184839+00:00",
    "title": "Indiana Jones and the Great Circle",
    "username": "RS25"
   },
   {
    "login": "berserk_dark_cacao",
-   "pos": 3,
+   "pos": 2,
    "requested_at": "2026-09-21T15:41:09.758828+00:00",
    "title": "P.T.",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "courtney_a_ok",
-   "pos": 4,
+   "pos": 3,
    "requested_at": "2026-09-21T16:02:29.850837+00:00",
    "title": "Paper Mario: The Thousand-Year Door",
    "username": "courtney_a_ok"
   },
   {
    "login": "big_tx",
-   "pos": 5,
+   "pos": 4,
    "requested_at": "2026-09-21T16:05:55.658829+00:00",
    "title": "Balloon Fight",
    "username": "Big_Tx"
   },
   {
    "login": "berserk_dark_cacao",
-   "pos": 6,
+   "pos": 5,
    "requested_at": "2026-09-21T16:17:35.009339+00:00",
    "title": "Bloodborne PSX",
    "username": "berserk_dark_cacao"
   },
   {
    "login": "ftakano",
-   "pos": 7,
+   "pos": 6,
    "requested_at": "2026-09-21T16:38:55.971832+00:00",
    "title": "Track and Field",
    "username": "fTakano"
   },
   {
    "login": "notsumei",
-   "pos": 8,
+   "pos": 7,
    "requested_at": "2026-09-21T16:57:19.933329+00:00",
    "title": "Highlander: The Last of the MacLeods",
    "username": "NOTsumei"
   }
  ],
  "locked": true,
- "now_playing": "Jet Moto 3",
- "platform": "Starting Soon",
+ "now_playing": "Onimusha: Warlords",
+ "platform": "Sony PlayStation 2",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Sony_PlayStation_2"
 }
