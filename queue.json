@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
  "count": 7,
- "generated_at": "Sep 21, 2026 10:45 AM",
- "generated_ts": 1790005500,
+ "generated_at": "Sep 21, 2026 10:55 AM",
+ "generated_ts": 1790006100,
  "items": [
   {
    "login": "ftakano",
@@ -55,9 +55,9 @@
   }
  ],
  "locked": false,
- "now_playing": "Diablo III: Reaper of Souls: Ultimate Evil Edition",
- "platform": "Sony PlayStation 3",
+ "now_playing": "Rapala Pro Bass Fishing",
+ "platform": "Sony PlayStation Portable",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Sony_PlayStation_3"
+ "theme": "Sony_PlayStation_Portable"
 }
