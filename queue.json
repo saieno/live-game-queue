@@ -1,15 +1,15 @@
 {
  "channel": "retrosaieno",
  "count": 8,
- "generated_at": "Sep 21, 2026 11:35 AM",
- "generated_ts": 1790008500,
+ "generated_at": "Sep 21, 2026 11:40 AM",
+ "generated_ts": 1790008800,
  "items": [
   {
-   "login": "iamjenthefriend",
+   "login": "notsumei",
    "pos": 1,
-   "requested_at": "2026-09-21T15:35:26.869330+00:00",
-   "title": "Bust-A-Move 3000",
-   "username": "iamjenthefriend"
+   "requested_at": "2026-09-21T16:17:49.367835+00:00",
+   "title": "Super Tempo",
+   "username": "NOTsumei"
   },
   {
    "login": "guiniguy",
@@ -54,17 +54,17 @@
    "username": "berserk_dark_cacao"
   },
   {
-   "login": "notsumei",
+   "login": "ftakano",
    "pos": 8,
-   "requested_at": "2026-09-21T16:17:49.367835+00:00",
-   "title": "Super Tempo",
-   "username": "NOTsumei"
+   "requested_at": "2026-09-21T16:38:55.971832+00:00",
+   "title": "Track and Field",
+   "username": "fTakano"
   }
  ],
  "locked": false,
- "now_playing": "B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin",
- "platform": "Wheel of Nostalgia",
+ "now_playing": "Bust-A-Move 3000",
+ "platform": "Nintendo GameCube",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Default"
+ "theme": "Nintendo_GameCube"
 }
