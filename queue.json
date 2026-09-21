@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 5,
- "generated_at": "Sep 21, 2026 10:40 AM",
- "generated_ts": 1790005200,
+ "count": 7,
+ "generated_at": "Sep 21, 2026 10:45 AM",
+ "generated_ts": 1790005500,
  "items": [
   {
    "login": "ftakano",
@@ -38,6 +38,20 @@
    "requested_at": "2026-09-21T15:35:33.998335+00:00",
    "title": "Onimusha: Warlords",
    "username": "guiniguy"
+  },
+  {
+   "login": "rs25",
+   "pos": 6,
+   "requested_at": "2026-09-21T15:40:54.184839+00:00",
+   "title": "Indiana Jones and the Great Circle",
+   "username": "RS25"
+  },
+  {
+   "login": "berserk_dark_cacao",
+   "pos": 7,
+   "requested_at": "2026-09-21T15:41:09.758828+00:00",
+   "title": "P.T.",
+   "username": "berserk_dark_cacao"
   }
  ],
  "locked": false,
