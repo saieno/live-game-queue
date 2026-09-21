@@ -1,8 +1,8 @@
 {
  "channel": "retrosaieno",
- "count": 7,
- "generated_at": "Sep 21, 2026 11:15 AM",
- "generated_ts": 1790007300,
+ "count": 9,
+ "generated_at": "Sep 21, 2026 11:20 AM",
+ "generated_ts": 1790007600,
  "items": [
   {
    "login": "ftakano",
@@ -52,6 +52,20 @@
    "requested_at": "2026-09-21T16:05:55.658829+00:00",
    "title": "Balloon Fight",
    "username": "Big_Tx"
+  },
+  {
+   "login": "berserk_dark_cacao",
+   "pos": 8,
+   "requested_at": "2026-09-21T16:17:35.009339+00:00",
+   "title": "Bloodborne PSX",
+   "username": "berserk_dark_cacao"
+  },
+  {
+   "login": "notsumei",
+   "pos": 9,
+   "requested_at": "2026-09-21T16:17:49.367835+00:00",
+   "title": "Super Tempo",
+   "username": "NOTsumei"
   }
  ],
  "locked": false,
