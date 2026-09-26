@@ -1,13 +1,13 @@
 {
  "channel": "retrosaieno",
  "count": 0,
- "generated_at": "Sep 26, 2026 03:10 AM",
- "generated_ts": 1790410200,
+ "generated_at": "Sep 26, 2026 03:15 AM",
+ "generated_ts": 1790410500,
  "items": [],
  "locked": true,
- "now_playing": "Star Wars Outlaws",
- "platform": "Microsoft Xbox One",
+ "now_playing": "The Legend of Zelda: The Wind Waker",
+ "platform": "Nintendo GameCube",
  "schema": 1,
  "site": "RetroSaieno — Game Queue",
- "theme": "Microsoft_Xbox_One"
+ "theme": "Nintendo_GameCube"
 }
